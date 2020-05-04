@@ -1,0 +1,21 @@
+<aside>
+
+  <h4>Available Capsules</h4>
+
+  <ul>
+
+    <% for ( var i = 0; i < capsules.length; i++ ) { %>
+
+      <li>
+
+        <p><a href="/courses/<%= courses_permalink %>/<%= topic_permalink %>/<%= capsules[i].capsule_permalink %>"><%= capsules[i].capsule_Name %></a></p>
+
+        <small><%= capsules[i].time_to_complete %></small>
+
+      </li>
+
+    <% } %>
+
+  </ul>
+
+</aside>

@@ -1,0 +1,211 @@
+<% layout('../.././layouts/default') -%>
+
+<div class="hero-title" style="background-image: url('/images/headers-work-together.jpg');">
+
+  <h2 class="text-center"><%= title %></h2>
+
+  <div class="profile-img" style="background-image: url('/images/jenny-scott.jpg');"></div>
+
+</div>
+
+<!--Badges-->
+<div class="container mb-5" style="margin-top: 5rem;">
+
+  <p class="text-center">Hello <b><%= userName%></b>, welcome to your dashboard.</p>
+
+  <div class="row justify-content-center mt-2">
+
+    <div class="col-md-12">
+
+      <div class="row">
+
+        <% for (var i = 0; i < badges.length; i++) {%>
+
+          <% if ( badges[i].collected == true ) {%>
+
+            <div style="width: 10%; padding: 7.5px;">
+
+              <img src="/images/badges/<%= badges[i].image %>" alt="<%= badges[i].title %>">
+
+            </div>
+
+          <% } else if ( badges[i].collected == false ) { %>
+
+            <div style="width: 10%; padding: 7.5px;">
+
+              <img src="/images/badges/<%= badges[i].image %>" class="grayscale" alt="<%= badges[i].title %>">
+
+            </div>
+
+          <% } %>
+
+        <% } %>
+
+      </div>
+
+    </div>
+
+  </div>
+
+</div>
+<!--Badges End-->
+
+<!--Achievments-->
+<section id="achievements" class="container-fluid">
+
+  <div class="container">
+
+    <div class="row justify-content-center">
+
+      <div class="col-12">
+
+        <h2 class="text-center">Your Achievements</h2>
+
+      </div>
+
+      <% for (var i = 0; i < 4; i++) {%>
+
+      <div class="col-6 col-sm-3 text-center">
+
+        <div class="achievement-item">
+
+          <img src="/images/badges/<%= badges[i].image %>" width="200" class="img-fluid" alt="<%= badges[i].title %>">
+
+        </div>
+
+      </div>
+
+      <% } %>
+
+      <div class="col-12 mt-5 text-center">
+
+        <a href="/achievements" class="btn btn-primary">View All Achievements</a>
+
+      </div>
+
+    </div>
+
+  </div>
+
+</section>
+<!--Achievments End-->
+
+<!--Courses-->
+<section id="courses" class="container mt-5 mb-5">
+
+  <div class="row">
+
+    <div class="col-12">
+
+      <h2 class="text-center">Your Courses</h2>
+
+    </div>
+
+    <% for (var i = 0; i < courses.length; i++) {%>
+
+    <div class="course-item col-md-3">
+
+      <a href="/courses/<%= courses[i].permalink %>">
+
+        <div class="course-img" style="background-image: url('/images/<%= courses[i].course_thumbnail %>');"></div>
+
+      </a>
+
+      <h5 class="text-center mt-3"><%= courses[i].courseName %></h5>
+
+      <% if ( courses[i].completed ) { %>
+
+        <p class="text-center">(completed)</p>
+
+      <% } %>
+
+    </div>
+
+    <%}%>
+
+  </div>
+
+</section>
+<!--Courses End-->
+
+<!--industry news-->
+<section id="news" class="container-fluid mb-4 pt-4 pb-5 bg-light">
+
+  <div class="container">
+
+    <div class="row">
+
+      <div class="col-12">
+
+        <h2 class="text-center">Latest Industry News</h2>
+
+      </div>
+
+      <% for (var i = 0; i < news.length; i++) {%>
+
+      <div class="news-item col-md-6">
+
+        <div class="news-img">
+          <img src="/images/<%= news[i].backgroundImage %>" class="img-fluid" alt="<%= news[i].title %>">
+        </div>
+
+        <h4><%= news[i].title %></h4>
+
+        <p><%= news[i].content %></p>
+
+        <a href="/news/<%= news[i].permalink %>" class="btn btn-primary">Read more</a>
+
+      </div>
+
+      <% } %>
+
+    </div>
+
+  </div>
+
+</section>
+<!--industry news End-->
+
+<!--Events-->
+<section id="events" class="container mb-5">
+
+  <div class="row">
+
+    <div class="col-12">
+
+      <h2 class="text-center mt-0">Upcoming Events</h2>
+
+    </div>
+
+    <% for (var i = 0; i < events.length; i++) {%>
+
+    <div class="col-md-4 events-items imagine-co-card">
+
+      <div class="imagine-co-card-container">
+
+        <div class="events-img">
+
+          <img src="/images/<%= events[i].backgroundImage %>" class="img-fluid" alt="<%= events[i].title %>">
+
+        </div>
+
+        <div class="card-content">
+
+          <h4><%= events[i].title %></h4>
+
+          <p><%= events[i].content %></p>
+
+          <a href="/events/<%= events[i].permalink %>" class="btn btn-primary">View event</a> <a href="/events/<%= events[i].permalink %>/register" class="btn btn-secondary">Register now</a>
+
+        </div>
+
+      </div>
+
+    </div>
+
+    <%}%>
+
+  </div>
+
+</section>
+<!--Events End-->

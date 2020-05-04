@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Mentor",
+    "image": "mentor.svg",
+    "collected" : true
+  },
+  {
+    "title": "Mega",
+    "image": "mega.svg",
+    "collected" : false
+  },
+  {
+    "title": "Energy Badge",
+    "image": "energy.svg",
+    "collected" : false
+  },
+  {
+    "title": "Sales Expert",
+    "image": "sales-expert.svg",
+    "collected" : true
+  },
+  {
+    "title": "Sales Master",
+    "image": "sales-master.svg",
+    "collected" : false
+  },
+  {
+    "title": "Product Guru",
+    "image": "product-guru.svg",
+    "collected" : false
+  },
+  {
+    "title": "Checklist Champ",
+    "image": "checklist-champ.svg",
+    "collected" : true
+  },
+  {
+    "title": "Weekend Warrior",
+    "image": "weekend-warrior.svg",
+    "collected" : false
+  },
+  {
+    "title": "Earn This",
+    "image": "earn-this.svg",
+    "collected" : true
+  },
+  {
+    "title": "Product Pro",
+    "image": "product-professional.svg",
+    "collected" : false
+  }
+]

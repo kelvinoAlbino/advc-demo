@@ -1,0 +1,65 @@
+<html>
+
+<head>
+
+  <%- include ../partials/head %>
+
+</head>
+
+<body>
+
+  <%- include ../partials/header-top %>
+
+  <%- include ../partials/header %>
+
+  <main>
+
+    <div class="courses-single">
+
+      <div class="page-title" style="background-image: url('/images/'); ">
+
+        <h1 class="text-center">
+
+          <%= title %>
+
+          <span class="d-block" style="font-size: 16px;">(<%= time_to_complete %>)</span>
+
+        </h1>
+
+      </div>
+
+      <div class="container mt-4 mb-5">
+
+        <div class="row">
+
+          <div class="col-md-8">
+
+            <%- body -%>
+
+            <p><b>Content Type:</b> <%= content_type %></p>
+
+            <div class="row">
+
+            </div>
+
+          </div>
+
+          <div class="col-md-4">
+
+            <% include .././partials/aside -%>
+
+          </div>
+
+        </div>
+
+      </div>
+
+    </div>
+
+  </main>
+
+  <%- include ../partials/footer %>
+
+</body>
+
+</html>

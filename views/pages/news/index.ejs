@@ -1,0 +1,41 @@
+<% layout( '../.././layouts/default' ) -%>
+
+<div class="hero-title" style="background-image: url('/images/headers-business.jpg');">
+
+  <h2 class="text-center">Latest Industry News</h2>
+
+</div>
+
+<!--industry news-->
+<section id="news" class="container-fluid mt-5 mb-4 pb-4">
+
+  <div class="container">
+
+    <div class="row">
+
+      <% for (var i = 0; i < news.length; i++) {%>
+
+      <div class="news-item col-md-6">
+
+        <div class="news-img">
+
+          <img src="/images/<%= news[i].backgroundImage %>" class="img-fluid" alt="<%= news[i].title %>">
+
+        </div>
+
+        <h4><%= news[i].title %></h4>
+
+        <p><%= news[i].content %></p>
+
+        <a href="/news/<%= news[i].permalink %>" class="btn btn-primary">Read more</a>
+
+      </div>
+
+      <% } %>
+
+    </div>
+
+  </div>
+
+</section>
+<!--industry news End-->

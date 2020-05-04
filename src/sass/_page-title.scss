@@ -1,0 +1,59 @@
+.hero-title, .home-hero-title {
+  position: relative;
+  background-color: #eee;
+  background-size: cover;
+  background-position: 50%;
+  background-attachment: fixed;
+
+  h1, h2 {
+    position: relative;
+    padding: $grid-gutter-width*2;
+    color:#000;
+    z-index: 2;
+  }
+
+  .profile-img {
+    position: absolute;
+    display: block;
+    bottom:-60px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 120px;
+    height: 120px ;
+    background: red;
+    border-radius: 50%;
+    background-size: cover;
+    background-position: 50% 50%;
+    border: solid 3px #fff;
+    z-index: 2;
+  }
+
+  &:after {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background-color: rgba( 255, 255, 255, 0.2 );
+    z-index: 0;
+  }
+}
+
+.hero-title {
+  h1, h2 {
+    padding: $grid-gutter-width*5;
+    color:#000;
+  }
+}
+
+.home-hero-title h1, .home-hero-title h2 {
+  padding: $grid-gutter-width*6 0 $grid-gutter-width*6 0;
+  background-attachment: inherit;
+}
+
+.page-title {
+  h1, h2 {
+    padding: $grid-gutter-width;
+  }
+}

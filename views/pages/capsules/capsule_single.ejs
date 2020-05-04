@@ -1,0 +1,41 @@
+<% layout( '../.././layouts/default' ) -%>
+
+<div class="courses-single">
+
+  <div class="page-title" style="background-image: url('/images/'); ">
+
+    <h2 class="text-center">
+
+      <%= title %>
+
+      <span class="d-block" style="font-size: 16px;">(<%= time_to_complete %>)</span>
+
+    </h2>
+
+  </div>
+
+  <div class="container mt-5 mb-5">
+
+    <div class="row">
+
+      <div class="col-md-8">
+
+        <p><%= content %></p>
+
+        <div class="row">
+
+        </div>
+
+      </div>
+
+      <div class="col-md-4">
+
+        <% include ../.././partials/aside -%>
+
+      </div>
+
+    </div>
+
+  </div>
+
+</div>

@@ -1,0 +1,28 @@
+#top-header {
+  background-color: $g-g-advc-green;
+
+  ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+
+    li {
+      display: inline-block;
+      padding-right: $grid-gutter-width/2;
+
+      a {
+        color: #fff;
+      }
+
+      i {
+        &.fa-tachometer-alt{
+          font-size: 1.5em;
+        }
+      }
+
+      &:last-child {
+        padding-right: 0;
+      }
+    }
+  }
+}

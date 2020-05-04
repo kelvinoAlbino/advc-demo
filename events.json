@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Management seminar",
+    "permalink": "management-seminar",
+    "heroImage":"",
+    "backgroundImage": "management-seminar.jpg",
+    "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perferendis quo quaerat doloribus voluptas tempore ea assumenda vero, non illo natus sapiente nam autem illum nesciunt ut, dolores blanditiis praesentium ab."
+  },
+
+  {
+    "title": "How to close more sales",
+    "permalink": "how-to-close-more-sales",
+    "heroImage":"",
+    "backgroundImage": "close-more-sales.jpg",
+    "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempora inventore, quibusdam, molestiae perspiciatis molestias quaerat omnis consequuntur soluta. Officiis repudiandae sequi culpa assumenda illo aut maiores sapiente aspernatur veritatis non."
+  }
+]

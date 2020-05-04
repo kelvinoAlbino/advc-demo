@@ -1,0 +1,13 @@
+<% layout( '../.././layouts/content_type' ) -%>
+
+<p><%= content %></p>
+
+<div id="game">
+  <script src="https://cdn.htmlgames.com/embed.js?game=JollyJongMath&amp;&amp;bgcolor=white&amp;&amp;height=auto"></script>
+</div>
+
+<script>
+  document.querySelectorAll("#game div")[0].style.height="initial";
+</script>
+
+<p>Content unique to <%= content_type %> here</p>

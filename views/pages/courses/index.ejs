@@ -1,0 +1,39 @@
+<% layout( '../.././layouts/default' ) -%>
+
+<div class="hero-title" style="background-image: url('/images/headers-working.jpg'); background-position: 50% 250%;">
+
+  <h2 class="text-center">Available Cources</h2>
+
+</div>
+
+<!--Courses-->
+<section id="courses" class="container mt-5 mb-5">
+
+  <div class="row">
+
+    <% for (var i = 0; i < courses.length; i++) {%>
+
+    <div class="course-item col-md-3">
+
+      <a href="/courses/<%= courses[i].permalink %>">
+
+        <div class="course-img" style="background-image: url('/images/<%= courses[i].course_thumbnail %>');"></div>
+
+      </a>
+
+      <h4 class="text-center"><%= courses[i].courseName %></h4>
+
+      <% if ( courses[i].completed ) { %>
+
+        <p class="text-center">(completed)</p>
+
+      <% } %>
+
+    </div>
+
+    <%}%>
+
+  </div>
+
+</section>
+<!--Courses End-->

@@ -1,0 +1,47 @@
+<% layout( '../.././layouts/default' ) -%>
+
+<div class="events-single">
+
+  <div class="page-title" style="background-image: url('/images/<%= heroImage %>'); ">
+
+    <h2 class="text-center"><%= title %></h2>
+
+  </div>
+
+  <div class="container mt-4 mb-5">
+
+    <div class="row">
+
+      <div class="col-md-8">
+
+        <p><%= content %></p>
+
+         <a href="/events/<%= pemalink %>/register" class="btn btn-secondary">Register now</a>
+
+      </div>
+
+      <div class="col-md-4">
+
+        <aside>
+
+          <h4>Avialable Events</h4>
+
+          <ul>
+
+            <% for (var i = 0; i < events.length; i++) {%>
+
+              <li><a href="/events/<%= events[i].permalink %>"><%= events[i].title %></a></li>
+
+            <%}%>
+
+          </ul>
+
+        </aside>
+
+      </div>
+
+    </div>
+
+  </div>
+
+</div>

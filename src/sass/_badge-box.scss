@@ -1,0 +1,14 @@
+#badge {
+  display: inline-block;
+  text-align: center;
+  background-color: #fff;
+  border-radius: 6px;
+  padding: $grid-gutter-width/2;
+  cursor: pointer;
+
+  h5 {
+    padding: $grid-gutter-width/2;
+    text-align: center;
+    margin: 0;
+  }
+}

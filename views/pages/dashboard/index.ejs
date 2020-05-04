@@ -1,0 +1,163 @@
+<% layout('../.././layouts/default') -%>
+
+<div class="home-hero-title" style="background-image: url('/images/headers-team-reflection.jpg');">
+
+  <h2 class="text-center animated fadeInUp">Welcome to ImagineCo<sup>®</sup></h2>
+
+</div>
+
+<!--Courses-->
+<section id="courses" class="container mt-5 mb-5">
+
+  <div class="row">
+
+    <div class="col-12">
+
+      <h2 class="text-center">Courses you may be interested in</h2>
+
+    </div>
+
+    <% for (var i = 0; i < courses.length; i++) {%>
+
+    <div class="course-item col-md-3">
+
+      <a href="/courses/<%= courses[i].permalink %>">
+
+        <div class="course-img" style="background-image: url('/images/<%= courses[i].course_thumbnail %>');"></div>
+
+      </a>
+
+      <h5 class="text-center mt-3"><%= courses[i].courseName %></h5>
+
+      <% if ( courses[i].completed ) { %>
+
+        <p class="text-center">(completed)</p>
+
+      <% } %>
+
+    </div>
+
+    <%}%>
+
+  </div>
+
+</section>
+<!--Courses End-->
+
+<!--Dynamic Content-->
+<section class="container-fluid p-5 mb-4" style="background-color: #edf2f5; height: initial;">
+
+  <div class="container" style="position: relative;">
+
+    <div class="row align-items-center">
+
+      <div class="col-sm-6">
+
+        <div class="demo-content"><%- include ../../partials/examples/badge-example%></div>
+
+        <div class="demo-content"><%- include ../../partials/examples/dynamic-problem-solving%></div>
+
+        <div class="demo-content"><%- include ../../partials/examples/measurements-reporting%></div>
+
+      </div>
+
+      <div class="col-sm-6">
+
+        <h2>Dynamic Content</h2>
+
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Obcaecati, rerum earum delectus hic suscipit odio assumenda! Vero odio inventore quam, necessitatibus hic. Similique, inventore neque nam saepe, eligendi atque quibusdam.</p>
+
+        <a href="/" class="btn btn-primary">Find out more</a>
+      </div>
+
+    </div>
+
+  </div>
+
+</section>
+<!--Dynamic Content End-->
+
+<!--Events-->
+<section id="events" class="container mb-5">
+
+  <div class="row">
+
+    <div class="col-12">
+
+      <h2 class="text-center mt-0">Upcoming Events</h2>
+
+    </div>
+
+    <% for (var i = 0; i < events.length; i++) {%>
+
+    <div class="col-md-4 events-items imagine-co-card">
+
+      <div class="imagine-co-card-container">
+
+        <div class="events-img">
+
+          <img src="/images/<%= events[i].backgroundImage %>" class="img-fluid" alt="<%= events[i].title %>">
+
+        </div>
+
+        <div class="card-content">
+
+          <h4><%= events[i].title %></h4>
+
+          <p><%= events[i].content %></p>
+
+          <a href="/events/<%= events[i].permalink %>" class="btn btn-primary">View event</a> <a href="/events/<%= events[i].permalink %>/register" class="btn btn-secondary">Register now</a>
+
+        </div>
+
+      </div>
+
+    </div>
+
+    <%}%>
+
+  </div>
+
+</section>
+<!--Events End-->
+
+
+<!--industry news-->
+<section id="news" class="container-fluid pb-5 bg-light m-0">
+
+  <div class="container">
+
+    <div class="row">
+
+      <div class="col-12">
+
+        <h2 class="text-center mt-4">Latest Industry News</h2>
+
+      </div>
+
+      <% for (var i = 0; i < news.length; i++) {%>
+
+      <div class="news-item col-md-6">
+
+        <div class="news-img">
+          <img src="/images/<%= news[i].backgroundImage %>" class="img-fluid" alt="<%= news[i].title %>">
+        </div>
+
+        <h4><%= news[i].title %></h4>
+
+        <p><%= news[i].content %></p>
+
+        <a href="/news/<%= news[i].permalink %>" class="btn btn-primary">Read more</a>
+
+      </div>
+
+      <% } %>
+
+    </div>
+
+  </div>
+
+</section>
+<!--industry news End-->
+
+

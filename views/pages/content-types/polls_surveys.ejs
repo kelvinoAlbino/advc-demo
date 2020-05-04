@@ -1,0 +1,64 @@
+<% layout( '../.././layouts/content_type' ) -%>
+
+<p><%= content %></p>
+
+<form action="" class="bg-light p-5 rounded">
+
+  <h5 class="mb-4">Which era of Star Wars is the best?</h5>
+
+  <div class="form-group">
+
+    <p><input type="radio" name="survey" value="Original Trilogy" class="d-inline mr-3"> The original trilogy</p>
+
+    <p><input type="radio" name="survey" value="The prequels" class="d-inline mr-3"> The prequels</p>
+
+    <p><input type="radio" name="survey" value="The sequels" class="d-inline mr-3"> The sequels</p>
+
+    <button class="btn btn-primary mt-3">Add vote</button>
+
+  </div>
+
+</form>
+
+<div id="poll-results" class="row mt-4 mb-4">
+
+  <div class="col-4">
+
+    <div class="p-4 bg-white shadow-sm rounded">
+
+      <h1 class="text-center">6/10</h1>
+
+      <h5 class="text-center">The original trilogy</h5>
+
+    </div>
+
+
+  </div>
+
+  <div class="col-4">
+
+    <div class="p-4 bg-white shadow-sm rounded">
+
+      <h1 class="text-center">4/10</h1>
+
+      <h5 class="text-center">The<br/>prequels</h5>
+
+    </div>
+
+  </div>
+
+  <div class="col-4">
+
+    <div class="p-4 bg-white shadow-sm rounded">
+
+      <h1 class="text-center">0/10</h1>
+
+      <h5 class="text-center">The<br/>sequels</h5>
+
+    </div>
+
+  </div>
+
+</div>
+
+<p>Content unique to <%= content_type %> here</p>

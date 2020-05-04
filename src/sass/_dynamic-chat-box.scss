@@ -1,0 +1,33 @@
+#dynamic-chat-box {
+  display: block;
+  max-width: 400px;
+  border-radius: 6px;
+  background-color: #fff;
+  margin: 0 auto;
+
+  .top {
+    color: #fff;
+    padding: $grid-gutter-width/2;
+    border-radius: 6px;
+    border-bottom-right-radius: 0px;
+    border-bottom-left-radius: 0px;
+
+  }
+
+  .user {
+    display: inline-block;
+    padding: $grid-gutter-width;
+    background-color: #009dff;
+    border-radius: 6px;
+    width: 80%;
+    color: #fff;
+  }
+
+  .response{
+    display: inline-block;
+    padding: $grid-gutter-width;
+    background-color: #edf2f5;
+    border-radius: 6px;
+    width: 80%;
+  }
+}

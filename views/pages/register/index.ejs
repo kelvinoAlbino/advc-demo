@@ -1,0 +1,53 @@
+<% layout('../.././layouts/default') -%>
+
+<h2 class="text-center mt-5 mb-5">Register</h2>
+
+<div class="container mb-5">
+	<form action="">
+		<div class="form-group">
+
+			<div class="row">
+
+				<div class="col-6">
+					<label for="fName" class="d-block">
+						First Name*
+						<input required type="text" class="form-control" name="fName">
+					</label>
+				</div>
+
+				<div class="col-6">
+					Last Name*
+					<label for="lName" class="d-block">
+						<input required type="text" name="lName" class="form-control">
+					</label>
+				</div>
+
+				<div class="col-6">
+					Tel*
+					<label for="telNumber" class="d-block">
+						<input required type="tel" name="telNumber" class="form-control">
+					</label>
+				</div>
+
+				<div class="col-6">
+					Email address*
+					<label for="email" class="d-block">
+						<input required type="email" name="email" class="form-control">
+					</label>
+				</div>
+
+				<div class="col-6">
+					Event name*
+					<label for="email" class="d-block">
+						<input required type="text" name="event" class="form-control" value="<%= eventName %>" readonly>
+					</label>
+				</div>
+
+				<div class="col-12 mt-2">
+				<button class="btn btn-primary" type="submit">Submit</button>
+				</div>
+
+			</div>
+		</div>
+	</form>
+</div>

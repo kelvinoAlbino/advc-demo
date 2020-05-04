@@ -1,0 +1,25 @@
+[
+  {
+    "achievementName": "Knowledge is power",
+    "permalink": "understanding-advc",
+    "backgroundImage": "understanding-advocacy.jpg"
+  },
+
+  {
+    "achievementName": "Sales master",
+    "permalink": "high-voltage-selling",
+    "backgroundImage": "high-voltage-sales.jpg"
+  },
+
+  {
+    "achievementName": "Product training advocate",
+    "permalink": "product-training",
+    "backgroundImage": "product-training.jpg"
+  },
+
+  {
+    "achievementName": "Customer Favorite",
+    "permalink": "customer-service-training",
+    "backgroundImage": "customer-service.jpg"
+  }
+]

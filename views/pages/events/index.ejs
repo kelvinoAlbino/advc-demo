@@ -1,0 +1,49 @@
+<% layout( '../.././layouts/default' ) -%>
+
+<div class="hero-title" style="background-image: url('/images/headers-events.jpg');">
+
+  <h2 class="text-center m-0">Upcoming Events</h2>
+
+</div>
+
+<!--Events-->
+<div class="container-fluid bg-light">
+
+  <section id="events" class="container p-5">
+
+    <div class="row">
+
+      <% for (var i = 0; i < events.length; i++) {%>
+
+      <div class="col-md-4 events-items imagine-co-card">
+
+        <div class="imagine-co-card-container bg-white">
+
+          <div class="events-img">
+
+            <img src="/images/<%= events[i].backgroundImage %>" class="img-fluid" alt="<%= events[i].title %>">
+
+          </div>
+
+          <div class="card-content">
+
+            <h4><%= events[i].title %></h4>
+
+            <p><%= events[i].content %></p>
+
+            <a href="/events/<%= events[i].permalink %>" class="btn btn-primary">View event</a> <a href="/events/<%= events[i].permalink %>/register" class="btn btn-secondary">Register now</a>
+
+          </div>
+
+        </div>
+
+      </div>
+
+      <%}%>
+
+    </div>
+
+  </section>
+
+</div>
+<!--Events End-->

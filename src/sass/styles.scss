@@ -1,0 +1,92 @@
+@import "fontawesome";
+
+@import 'variables';
+
+/*bootstrap*/
+@import 'bootstrap';
+
+
+//Custom Styles
+@import 'typography';
+
+@import 'top-header';
+
+@import 'page-title';
+
+@import 'profile';
+
+@import 'aside';
+
+@import 'courses';
+
+@import 'help-centre';
+
+@import 'progress-bar';
+
+@import 'badge-box';
+
+@import 'measurements-reporting';
+
+@import 'dynamic-chat-box';
+
+@import 'footer';
+
+@import 'animate';
+
+@import 'bootstrap-overrides';
+
+.green-bg {
+  background-color: $g-g-advc-green;
+}
+
+.orange-bg {
+  background-color: $g-g-advc-orange;
+}
+
+.green-text {
+  color: $g-g-advc-green;
+}
+
+.orange-text {
+  color: $g-g-advc-orange;
+}
+
+.bg-light {
+  background-color: $g-g-advc-light-gray !important;
+}
+
+.demo-content #badge {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  left: 0;
+  z-index: 999999;
+}
+
+.demo-content #dynamic-chat-box {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  left: 120px;
+}
+
+.demo-content #badge, .demo-content #measurements-reporting, .demo-content #dynamic-chat-box {
+  transition: all .75s;
+  cursor: pointer;
+
+  &:hover {
+    transform: translateX(40px) translateY(-50%) scale(1.05);
+    z-index: 999999;
+  }
+}
+
+.demo-content #measurements-reporting {
+  position: relative;
+  top: 0;
+  left: 30px;
+
+  &:hover {
+    transform: translateX(40px) translateY(0%) scale(1.05);
+    z-index: 999999;
+  }
+}

@@ -1,0 +1,72 @@
+  <% layout( '../.././layouts/default' ) -%>
+
+<div class="courses-single">
+
+  <div class="hero-title" style="background-image: url('/images/<%= course_heroImage %>'); ">
+
+    <h2 class="text-center"><%= title %></h2>
+
+  </div>
+
+  <div class="container mt-5 mb-5">
+
+    <div class="row justify-content-center">
+
+      <div class="col-12 col-md-8">
+
+        <p class="mb-5"><%= content %></p>
+
+        <div class="row">
+
+        <% for ( var i = 0; i < topic.length; i++){%>
+
+          <div class="col-6 col-md-4">
+
+            <a href="<%= pemalink %>/<%= topic[i].permalink %>">
+
+              <div class="profile" style="background-image: url(/images/<%= topic[i].topic_thumbnail%>);"></div>
+
+            </a>
+
+            <a href="<%= pemalink %>/<%= topic[i].permalink %>">
+
+              <p class="text-center mt-4"><%= topic[i].topic_name %></p>
+
+            </a>
+
+          </div>
+
+        <%}%>
+
+        </div>
+
+        <div class="row ratings justify-content-center mt-5">
+
+          <div class="col-sm-6 col-md-8 text-center bg-light p-5" style="border-radius: 12px; box-shadow: 0 0 12px rgba(0, 0, 0, 0.1);">
+
+            <h5 class="text-center">How your colleagues rated this course</h5>
+
+            <div class="d-inline-block" style="position: relative; width: 176px; height: 32px;">
+
+              <i class="fas fa-star" style="font-size: 2em; color: red; position: absolute; left: 0"></i>
+              <i class="fas fa-star" style="font-size: 2em; color: red; position: absolute; left: 35px"></i>
+              <i class="fas fa-star" style="font-size: 2em; color: red; position: absolute; left: 70px"></i>
+              <i class="fas fa-star" style="font-size: 2em; color: red; position: absolute; left: 105px"></i>
+              <i class="fas fa-star-half" style="font-size: 2em; color: red; position: absolute; left: 140px"></i>
+              <i class="fas fa-star-half" style="font-size: 2em; color: #eee; transform: scaleX(-1);position: absolute; left: 140px"></i>
+
+            </div>
+
+            <h5 class="text-center mt-3"><strong>4.5 of 5 Stars</strong></h5>
+
+          </div>
+
+        </div>
+
+      </div>
+
+    </div>
+
+  </div>
+
+</div>

@@ -1,0 +1,45 @@
+<% layout( '../.././layouts/default' ) -%>
+
+<div class="courses-single">
+
+  <div class="hero-title" style="background-image: url('/images/<%= topic_image %>'); ">
+
+    <h2 class="text-center"><%= title %></h2>
+
+  </div>
+
+  <div class="container mt-5 mb-5">
+
+    <div class="row justify-content-center">
+
+      <div class="col-12 col-md-8">
+
+        <p class="mb-5"><%= content %></p>
+
+        <div class="row">
+
+        <% for ( var i = 0; i < capsules.length; i++){%>
+
+          <div class="looping col-4 col-md-3">
+
+            <a href="/courses/<%= courses_permalink %>/<%= topic_permalink %>/<%= capsules[i].capsule_permalink %>"><div class="profile"><i class="<%= capsules[i].capsule_thumbnail %>"></i></div></a>
+
+            <p class="text-center">
+
+              <a href="/courses/<%= courses_permalink %>/<%= topic_permalink %>/<%= capsules[i].capsule_permalink %>"><%= capsules[i].capsule_Name %></a>
+
+            </p>
+
+          </div>
+
+        <%}%>
+
+        </div>
+
+      </div>
+
+    </div>
+
+  </div>
+
+</div>

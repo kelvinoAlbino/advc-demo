@@ -1,0 +1,2815 @@
+[
+  {
+    "courseName": "Understanding ADVC",
+    "permalink": "understanding-advc",
+    "course_heroImage": "understanding-advc-course-heroImage.jpg",
+    "course_thumbnail" : "understanding-advocacy.jpg",
+    "content":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur perspiciatis harum facilis repellendus iure impedit blanditiis! Nam blanditiis quia repellendus, cumque officiis non corrupti, sed voluptas ad nihil illo nemo.",
+    "topic" : [
+      {
+        "topic_name" : "Topic 1: Learning technologies",
+        "topic_image" : "learning-technologies-heroImage.jpg",
+        "topic_thumbnail" : "learning-technologies-thumb.jpg",
+        "topic_content" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestias debitis repellendus quas amet, culpa quam natus perspiciatis a. Assumenda iusto, nam quas eaque aperiam aspernatur amet necessitatibus consectetur? Laboriosam, eum.",
+        "permalink" : "learning-technologies",
+        "capsule" : [
+          {
+            "capsule_Name" : "Presentations and slideshares",
+            "capsule_permalink": "presentations-slideshares",
+            "content_type" : "Presentations and Slideshares",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fab fa-slideshare",
+            "capsule_content" : "A presentation or slideshare is a group of content, presented in slide or powerpoint format, and is used to facilitate knowledge acquisition (mainly conceptual and factual knowledge), orientation, motivation, attitudinal change.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Charts and Graphs",
+            "capsule_permalink": "charts-Graph",
+            "content_type" : "Charts and Graphs",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-chart-pie",
+            "capsule_content" : "Charts, graphs and diagrams are used to easily illustrate complex data to an audience. They are generally used in both application methodology, but can also be used in exposive and collaborative methodologies. They are excellent at developing deep understanding of complex systems, building procedural skills and the effective illustration of data ",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Webinars and events",
+            "capsule_permalink": "webinars-events",
+            "content_type" : "Webinars and Events",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "far fa-calendar-alt",
+            "capsule_content" : "Webinars and events are used in a multitude of different learning and development scenario's. Webinars and events allow key information and messaging to be broadly broadcast to a large number of participants, and their proper design, and integration into learning materials can be massively effective.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Podcasts, audio and interviews",
+            "capsule_permalink": "podcasts-audio-interviews",
+            "content_type" : "audio",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-music",
+            "capsule_podcast" : "how-to-find-your-why-the-infinite-game-simon-sinek.wav",
+            "capsule_podcast_cover" : "how-to-find-your-why-the-infinite-game-simon-sinek.jpg",
+            "capsule_content" : "Podcasts, audio and interviews are used for different applications. Audio can be used to illustrate specific conditions, or sounds, while interviews and podcasts can be used in application methodologies, such as case studies, job aids, deep knowledge development and procedural skills.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Games",
+            "capsule_permalink": "games",
+            "content_type" : "Game",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-gamepad",
+            "capsule_content" : "The use of games and simulation based technologies can promote the application of knowledge learnt within the system. Games based technologies allow the development of deep understanding within complex information, processes or systems, as well as role plays to develop interpersonal skills and attitudinal changes in members.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Case Studies",
+            "capsule_permalink": "case-studies",
+            "content_type" : "Case Study",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-search",
+            "capsule_content" : "Case studies illustrate ideas in action, allowing the member to see and understand the technology, idea or methodology in action. Ideally, case studies should be used with open questioning to develop understanding along with the explanation in action.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Video (static)",
+            "capsule_permalink": "video-static",
+            "content_type" : "Static Video",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-video",
+            "capsule_content" : "Static video has a high degree of application within learning, from illustration of concepts, presentations, knowledge transfer as well as illustration. Properly designed video content is highly interactive, short in duration and is specifically designed and developed to illustrate a core message or purpose.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Video (dynamic)",
+            "capsule_permalink": "video-dynamic",
+            "content_type" : "Dynamic Video",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-photo-video",
+            "capsule_content" : "Dynamic or interactive video illustrates a learning journey by integrating interactive learning interventions, such as multiple choice questions, downloads, lists, pictures and audio to create interactive action based video.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Infographic",
+            "capsule_permalink": "infographic",
+            "content_type" : "Infographic",
+            "capsule_featured_image" : "",
+            "capsule_infographic_image" : "infographics.jpg",
+            "capsule_thumbnail" : "fas fa-chart-line",
+            "capsule_content" : "Infographics are graphic visual representations of information, data, or knowledge intended to present information quickly and clearly. Infographics improve cognition by utilizing graphics to enhance the human visual system's ability to see patterns and trends.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Problem solving and simulations",
+            "capsule_permalink": "Problem-solving-simulations",
+            "content_type" : "Problem Solving and Simulations",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-brain",
+            "capsule_content" : "Simulations and problem solving scenario's are used to illustrate, and formatively assess and test a members knowledge transfer and understanding. Through the use of simulations, a member can apply their understanding and develop their skills in a safe, illustrative space.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Checklists",
+            "capsule_permalink": "checklists",
+            "content_type" : "Checklists",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-tasks",
+            "capsule_content" : "A checklist is a type of job aid used to reduce failure by compensating for potential limits of human memory and attention. They are best used as job aids, where they provide just-in-time information and guidance.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Text and articles",
+            "capsule_permalink": "text-articles",
+            "content_type" : "Text and Articles",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-text-height",
+            "capsule_content" : "Text and articles are the core of learning material. Through the use of properly curated, and expertly written copy, learning material can be specifically delivered and designed for maximum impact and transfer. It can be used in multiple applications, scenarios and learning methodologies.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "eBooks and manuals",
+            "capsule_permalink": "ebooks-manuals",
+            "content_type" : "eBooks and manuals",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-book",
+            "capsule_ebook_cover" : "online-advertising-cover.jpg",
+            "capsule_ebook_link" : "online-advertising.pdf",
+            "capsule_content" : "eBooks and manuals are generally material that contain the corporate intelligence of an organization, how the business or function does what it does. They are best leveraged through providing the source of business intelligence within the learning pathway through the use of a download or share option, or integrating specific chapters or pages of a given manual or process.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Polls and Surveys",
+            "capsule_permalink": "polls-surveys",
+            "content_type" : "Polls and Surveys",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-poll-h",
+            "capsule_content" : "Polls and surveys have huge application within a learning environment. They can be used to increase interaction with material, increase synchronicity, gather feedback and information and multiple other uses.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Assessments",
+            "capsule_permalink": "assessments",
+            "content_type" : "Assessments",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-user-check",
+            "capsule_content" : "The foundation of proper assessment is to ensure tight packaging between the learning outcomes, the learning activity and the assessment of that activity. It is essential that assessments are not merely completed so that participants can pass the programme, without the true objective of the course occurring, which is to build new competencies and knowledge.",
+            "time_to_complete" : "2 Minutes"
+          }
+        ]
+      },
+      {
+        "topic_name" : "Topic 2: System capabilities",
+        "topic_image" : "system-capabilities-heroImage.jpg",
+        "topic_thumbnail" : "system-capabilities-thumb.jpg",
+        "topic_content":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maiores earum aut voluptatum, ad, optio, ratione adipisci iure fugiat dolore dolor nam asperiores voluptatem alias temporibus quas itaque doloribus aliquid. Praesentium.",
+        "permalink" : "system-capabilities",
+        "capsule" : [
+          {
+            "capsule_Name" : "Presentations and slideshares",
+            "capsule_permalink": "presentations-slideshares",
+            "content_type" : "Presentations and Slideshares",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fab fa-slideshare",
+            "capsule_content" : "A presentation or slideshare is a group of content, presented in slide or powerpoint format, and is used to facilitate knowledge acquisition (mainly conceptual and factual knowledge), orientation, motivation, attitudinal change.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Charts and Graphs",
+            "capsule_permalink": "charts-Graph",
+            "content_type" : "Charts and Graphs",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-chart-pie",
+            "capsule_content" : "Charts, graphs and diagrams are used to easily illustrate complex data to an audience. They are generally used in both application methodology, but can also be used in exposive and collaborative methodologies. They are excellent at developing deep understanding of complex systems, building procedural skills and the effective illustration of data ",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Webinars and events",
+            "capsule_permalink": "webinars-events",
+            "content_type" : "Webinars and Events",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "far fa-calendar-alt",
+            "capsule_content" : "Webinars and events are used in a multitude of different learning and development scenario's. Webinars and events allow key information and messaging to be broadly broadcast to a large number of participants, and their proper design, and integration into learning materials can be massively effective.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Podcasts, audio and interviews",
+            "capsule_permalink": "podcasts-audio-interviews",
+            "content_type" : "audio",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-music",
+            "capsule_podcast" : "how-to-find-your-why-the-infinite-game-simon-sinek.wav",
+            "capsule_podcast_cover" : "how-to-find-your-why-the-infinite-game-simon-sinek.jpg",
+            "capsule_content" : "Podcasts, audio and interviews are used for different applications. Audio can be used to illustrate specific conditions, or sounds, while interviews and podcasts can be used in application methodologies, such as case studies, job aids, deep knowledge development and procedural skills.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Games",
+            "capsule_permalink": "games",
+            "content_type" : "Game",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-gamepad",
+            "capsule_content" : "The use of games and simulation based technologies can promote the application of knowledge learnt within the system. Games based technologies allow the development of deep understanding within complex information, processes or systems, as well as role plays to develop interpersonal skills and attitudinal changes in members.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Case Studies",
+            "capsule_permalink": "case-studies",
+            "content_type" : "Case Study",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-search",
+            "capsule_content" : "Case studies illustrate ideas in action, allowing the member to see and understand the technology, idea or methodology in action. Ideally, case studies should be used with open questioning to develop understanding along with the explanation in action.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Video (static)",
+            "capsule_permalink": "video-static",
+            "content_type" : "Static Video",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-video",
+            "capsule_content" : "Static video has a high degree of application within learning, from illustration of concepts, presentations, knowledge transfer as well as illustration. Properly designed video content is highly interactive, short in duration and is specifically designed and developed to illustrate a core message or purpose.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Video (dynamic)",
+            "capsule_permalink": "video-dynamic",
+            "content_type" : "Dynamic Video",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-photo-video",
+            "capsule_content" : "Dynamic or interactive video illustrates a learning journey by integrating interactive learning interventions, such as multiple choice questions, downloads, lists, pictures and audio to create interactive action based video.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Infographic",
+            "capsule_permalink": "infographic",
+            "content_type" : "Infographic",
+            "capsule_featured_image" : "",
+            "capsule_infographic_image" : "infographics.jpg",
+            "capsule_thumbnail" : "fas fa-chart-line",
+            "capsule_content" : "Infographics are graphic visual representations of information, data, or knowledge intended to present information quickly and clearly. Infographics improve cognition by utilizing graphics to enhance the human visual system's ability to see patterns and trends.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Problem solving and simulations",
+            "capsule_permalink": "Problem-solving-simulations",
+            "content_type" : "Problem Solving and Simulations",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-brain",
+            "capsule_content" : "Simulations and problem solving scenario's are used to illustrate, and formatively assess and test a members knowledge transfer and understanding. Through the use of simulations, a member can apply their understanding and develop their skills in a safe, illustrative space.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Checklists",
+            "capsule_permalink": "checklists",
+            "content_type" : "Checklists",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-tasks",
+            "capsule_content" : "A checklist is a type of job aid used to reduce failure by compensating for potential limits of human memory and attention. They are best used as job aids, where they provide just-in-time information and guidance.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Text and articles",
+            "capsule_permalink": "text-articles",
+            "content_type" : "Text and Articles",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-text-height",
+            "capsule_content" : "Text and articles are the core of learning material. Through the use of properly curated, and expertly written copy, learning material can be specifically delivered and designed for maximum impact and transfer. It can be used in multiple applications, scenarios and learning methodologies.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "eBooks and manuals",
+            "capsule_permalink": "ebooks-manuals",
+            "content_type" : "eBooks and manuals",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-book",
+            "capsule_ebook_cover" : "online-advertising-cover.jpg",
+            "capsule_ebook_link" : "online-advertising.pdf",
+            "capsule_content" : "eBooks and manuals are generally material that contain the corporate intelligence of an organization, how the business or function does what it does. They are best leveraged through providing the source of business intelligence within the learning pathway through the use of a download or share option, or integrating specific chapters or pages of a given manual or process.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Polls and Surveys",
+            "capsule_permalink": "polls-surveys",
+            "content_type" : "Polls and Surveys",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-poll-h",
+            "capsule_content" : "Polls and surveys have huge application within a learning environment. They can be used to increase interaction with material, increase synchronicity, gather feedback and information and multiple other uses.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Assessments",
+            "capsule_permalink": "assessments",
+            "content_type" : "Assessments",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-user-check",
+            "capsule_content" : "The foundation of proper assessment is to ensure tight packaging between the learning outcomes, the learning activity and the assessment of that activity. It is essential that assessments are not merely completed so that participants can pass the programme, without the true objective of the course occurring, which is to build new competencies and knowledge.",
+            "time_to_complete" : "2 Minutes"
+          }
+        ]
+      },
+      {
+        "topic_name" : "Topic 3: Applications",
+        "topic_image" : "applications.jpg",
+        "topic_thumbnail" : "applications-thumb.jpg",
+        "topic_content":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt deserunt accusantium eum, voluptates perferendis, nisi eaque tempore vero fugit architecto expedita reiciendis, quibusdam dolore animi porro veritatis odio nobis id.",
+        "permalink" : "applications",
+        "capsule" : [
+          {
+            "capsule_Name" : "Presentations and slideshares",
+            "capsule_permalink": "presentations-slideshares",
+            "content_type" : "Presentations and Slideshares",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fab fa-slideshare",
+            "capsule_content" : "A presentation or slideshare is a group of content, presented in slide or powerpoint format, and is used to facilitate knowledge acquisition (mainly conceptual and factual knowledge), orientation, motivation, attitudinal change.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Charts and Graphs",
+            "capsule_permalink": "charts-Graph",
+            "content_type" : "Charts and Graphs",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-chart-pie",
+            "capsule_content" : "Charts, graphs and diagrams are used to easily illustrate complex data to an audience. They are generally used in both application methodology, but can also be used in exposive and collaborative methodologies. They are excellent at developing deep understanding of complex systems, building procedural skills and the effective illustration of data ",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Webinars and events",
+            "capsule_permalink": "webinars-events",
+            "content_type" : "Webinars and Events",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "far fa-calendar-alt",
+            "capsule_content" : "Webinars and events are used in a multitude of different learning and development scenario's. Webinars and events allow key information and messaging to be broadly broadcast to a large number of participants, and their proper design, and integration into learning materials can be massively effective.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Podcasts, audio and interviews",
+            "capsule_permalink": "podcasts-audio-interviews",
+            "content_type" : "audio",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-music",
+            "capsule_podcast" : "how-to-find-your-why-the-infinite-game-simon-sinek.wav",
+            "capsule_podcast_cover" : "how-to-find-your-why-the-infinite-game-simon-sinek.jpg",
+            "capsule_content" : "Podcasts, audio and interviews are used for different applications. Audio can be used to illustrate specific conditions, or sounds, while interviews and podcasts can be used in application methodologies, such as case studies, job aids, deep knowledge development and procedural skills.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Games",
+            "capsule_permalink": "games",
+            "content_type" : "Game",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-gamepad",
+            "capsule_content" : "The use of games and simulation based technologies can promote the application of knowledge learnt within the system. Games based technologies allow the development of deep understanding within complex information, processes or systems, as well as role plays to develop interpersonal skills and attitudinal changes in members.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Case Studies",
+            "capsule_permalink": "case-studies",
+            "content_type" : "Case Study",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-search",
+            "capsule_content" : "Case studies illustrate ideas in action, allowing the member to see and understand the technology, idea or methodology in action. Ideally, case studies should be used with open questioning to develop understanding along with the explanation in action.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Video (static)",
+            "capsule_permalink": "video-static",
+            "content_type" : "Static Video",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-video",
+            "capsule_content" : "Static video has a high degree of application within learning, from illustration of concepts, presentations, knowledge transfer as well as illustration. Properly designed video content is highly interactive, short in duration and is specifically designed and developed to illustrate a core message or purpose.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Video (dynamic)",
+            "capsule_permalink": "video-dynamic",
+            "content_type" : "Dynamic Video",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-photo-video",
+            "capsule_content" : "Dynamic or interactive video illustrates a learning journey by integrating interactive learning interventions, such as multiple choice questions, downloads, lists, pictures and audio to create interactive action based video.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Infographic",
+            "capsule_permalink": "infographic",
+            "content_type" : "Infographic",
+            "capsule_featured_image" : "",
+            "capsule_infographic_image" : "infographics.jpg",
+            "capsule_thumbnail" : "fas fa-chart-line",
+            "capsule_content" : "Infographics are graphic visual representations of information, data, or knowledge intended to present information quickly and clearly. Infographics improve cognition by utilizing graphics to enhance the human visual system's ability to see patterns and trends.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Problem solving and simulations",
+            "capsule_permalink": "Problem-solving-simulations",
+            "content_type" : "Problem Solving and Simulations",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-brain",
+            "capsule_content" : "Simulations and problem solving scenario's are used to illustrate, and formatively assess and test a members knowledge transfer and understanding. Through the use of simulations, a member can apply their understanding and develop their skills in a safe, illustrative space.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Checklists",
+            "capsule_permalink": "checklists",
+            "content_type" : "Checklists",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-tasks",
+            "capsule_content" : "A checklist is a type of job aid used to reduce failure by compensating for potential limits of human memory and attention. They are best used as job aids, where they provide just-in-time information and guidance.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Text and articles",
+            "capsule_permalink": "text-articles",
+            "content_type" : "Text and Articles",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-text-height",
+            "capsule_content" : "Text and articles are the core of learning material. Through the use of properly curated, and expertly written copy, learning material can be specifically delivered and designed for maximum impact and transfer. It can be used in multiple applications, scenarios and learning methodologies.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "eBooks and manuals",
+            "capsule_permalink": "ebooks-manuals",
+            "content_type" : "eBooks and manuals",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-book",
+            "capsule_ebook_cover" : "online-advertising-cover.jpg",
+            "capsule_ebook_link" : "online-advertising.pdf",
+            "capsule_content" : "eBooks and manuals are generally material that contain the corporate intelligence of an organization, how the business or function does what it does. They are best leveraged through providing the source of business intelligence within the learning pathway through the use of a download or share option, or integrating specific chapters or pages of a given manual or process.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Polls and Surveys",
+            "capsule_permalink": "polls-surveys",
+            "content_type" : "Polls and Surveys",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-poll-h",
+            "capsule_content" : "Polls and surveys have huge application within a learning environment. They can be used to increase interaction with material, increase synchronicity, gather feedback and information and multiple other uses.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Assessments",
+            "capsule_permalink": "assessments",
+            "content_type" : "Assessments",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-user-check",
+            "capsule_content" : "The foundation of proper assessment is to ensure tight packaging between the learning outcomes, the learning activity and the assessment of that activity. It is essential that assessments are not merely completed so that participants can pass the programme, without the true objective of the course occurring, which is to build new competencies and knowledge.",
+            "time_to_complete" : "2 Minutes"
+          }
+        ]
+      },
+      {
+        "topic_name" : "Topic 4: Content types",
+        "topic_image" : "content-types-heroImage.jpg",
+        "topic_thumbnail" : "content-types-thumb.jpg",
+        "topic_content":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laudantium, neque illum odio veritatis ea quo minima similique eos ipsa quibusdam, eum deleniti molestias officiis pariatur nesciunt alias nisi. Dolorem, dignissimos!",
+        "permalink" : "content-types",
+        "capsule" : [
+          {
+            "capsule_Name" : "Presentations and slideshares",
+            "capsule_permalink": "presentations-slideshares",
+            "content_type" : "Presentations and Slideshares",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fab fa-slideshare",
+            "capsule_content" : "A presentation or slideshare is a group of content, presented in slide or powerpoint format, and is used to facilitate knowledge acquisition (mainly conceptual and factual knowledge), orientation, motivation, attitudinal change.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Charts and Graphs",
+            "capsule_permalink": "charts-Graph",
+            "content_type" : "Charts and Graphs",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-chart-pie",
+            "capsule_content" : "Charts, graphs and diagrams are used to easily illustrate complex data to an audience. They are generally used in both application methodology, but can also be used in exposive and collaborative methodologies. They are excellent at developing deep understanding of complex systems, building procedural skills and the effective illustration of data ",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Webinars and events",
+            "capsule_permalink": "webinars-events",
+            "content_type" : "Webinars and Events",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "far fa-calendar-alt",
+            "capsule_content" : "Webinars and events are used in a multitude of different learning and development scenario's. Webinars and events allow key information and messaging to be broadly broadcast to a large number of participants, and their proper design, and integration into learning materials can be massively effective.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Podcasts, audio and interviews",
+            "capsule_permalink": "podcasts-audio-interviews",
+            "content_type" : "audio",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-music",
+            "capsule_podcast" : "how-to-find-your-why-the-infinite-game-simon-sinek.wav",
+            "capsule_podcast_cover" : "how-to-find-your-why-the-infinite-game-simon-sinek.jpg",
+            "capsule_content" : "Podcasts, audio and interviews are used for different applications. Audio can be used to illustrate specific conditions, or sounds, while interviews and podcasts can be used in application methodologies, such as case studies, job aids, deep knowledge development and procedural skills.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Games",
+            "capsule_permalink": "games",
+            "content_type" : "Game",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-gamepad",
+            "capsule_content" : "The use of games and simulation based technologies can promote the application of knowledge learnt within the system. Games based technologies allow the development of deep understanding within complex information, processes or systems, as well as role plays to develop interpersonal skills and attitudinal changes in members.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Case Studies",
+            "capsule_permalink": "case-studies",
+            "content_type" : "Case Study",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-search",
+            "capsule_content" : "Case studies illustrate ideas in action, allowing the member to see and understand the technology, idea or methodology in action. Ideally, case studies should be used with open questioning to develop understanding along with the explanation in action.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Video (static)",
+            "capsule_permalink": "video-static",
+            "content_type" : "Static Video",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-video",
+            "capsule_content" : "Static video has a high degree of application within learning, from illustration of concepts, presentations, knowledge transfer as well as illustration. Properly designed video content is highly interactive, short in duration and is specifically designed and developed to illustrate a core message or purpose.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Video (dynamic)",
+            "capsule_permalink": "video-dynamic",
+            "content_type" : "Dynamic Video",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-photo-video",
+            "capsule_content" : "Dynamic or interactive video illustrates a learning journey by integrating interactive learning interventions, such as multiple choice questions, downloads, lists, pictures and audio to create interactive action based video.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Infographic",
+            "capsule_permalink": "infographic",
+            "content_type" : "Infographic",
+            "capsule_featured_image" : "",
+            "capsule_infographic_image" : "infographics.jpg",
+            "capsule_thumbnail" : "fas fa-chart-line",
+            "capsule_content" : "Infographics are graphic visual representations of information, data, or knowledge intended to present information quickly and clearly. Infographics improve cognition by utilizing graphics to enhance the human visual system's ability to see patterns and trends.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Problem solving and simulations",
+            "capsule_permalink": "Problem-solving-simulations",
+            "content_type" : "Problem Solving and Simulations",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-brain",
+            "capsule_content" : "Simulations and problem solving scenario's are used to illustrate, and formatively assess and test a members knowledge transfer and understanding. Through the use of simulations, a member can apply their understanding and develop their skills in a safe, illustrative space.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Checklists",
+            "capsule_permalink": "checklists",
+            "content_type" : "Checklists",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-tasks",
+            "capsule_content" : "A checklist is a type of job aid used to reduce failure by compensating for potential limits of human memory and attention. They are best used as job aids, where they provide just-in-time information and guidance.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Text and articles",
+            "capsule_permalink": "text-articles",
+            "content_type" : "Text and Articles",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-text-height",
+            "capsule_content" : "Text and articles are the core of learning material. Through the use of properly curated, and expertly written copy, learning material can be specifically delivered and designed for maximum impact and transfer. It can be used in multiple applications, scenarios and learning methodologies.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "eBooks and manuals",
+            "capsule_permalink": "ebooks-manuals",
+            "content_type" : "eBooks and manuals",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-book",
+            "capsule_ebook_cover" : "online-advertising-cover.jpg",
+            "capsule_ebook_link" : "online-advertising.pdf",
+            "capsule_content" : "eBooks and manuals are generally material that contain the corporate intelligence of an organization, how the business or function does what it does. They are best leveraged through providing the source of business intelligence within the learning pathway through the use of a download or share option, or integrating specific chapters or pages of a given manual or process.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Polls and Surveys",
+            "capsule_permalink": "polls-surveys",
+            "content_type" : "Polls and Surveys",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-poll-h",
+            "capsule_content" : "Polls and surveys have huge application within a learning environment. They can be used to increase interaction with material, increase synchronicity, gather feedback and information and multiple other uses.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Assessments",
+            "capsule_permalink": "assessments",
+            "content_type" : "Assessments",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-user-check",
+            "capsule_content" : "The foundation of proper assessment is to ensure tight packaging between the learning outcomes, the learning activity and the assessment of that activity. It is essential that assessments are not merely completed so that participants can pass the programme, without the true objective of the course occurring, which is to build new competencies and knowledge.",
+            "time_to_complete" : "2 Minutes"
+          }
+        ]
+      },
+      {
+        "topic_name" : "Topic 5: Reporting and analytics",
+        "topic_image" : "reporting-analytics-heroImage.jpg",
+        "topic_thumbnail" : "reporting-analytics-thumb.jpg",
+        "topic_content":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. In debitis quis dolore vitae excepturi temporibus nihil quidem quia quo at reprehenderit minima eius ipsum aliquid beatae et tenetur, ullam non.",
+        "permalink" : "reporting-analytics",
+        "capsule" : [
+          {
+            "capsule_Name" : "Presentations and slideshares",
+            "capsule_permalink": "presentations-slideshares",
+            "content_type" : "Presentations and Slideshares",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fab fa-slideshare",
+            "capsule_content" : "A presentation or slideshare is a group of content, presented in slide or powerpoint format, and is used to facilitate knowledge acquisition (mainly conceptual and factual knowledge), orientation, motivation, attitudinal change.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Charts and Graphs",
+            "capsule_permalink": "charts-Graph",
+            "content_type" : "Charts and Graphs",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-chart-pie",
+            "capsule_content" : "Charts, graphs and diagrams are used to easily illustrate complex data to an audience. They are generally used in both application methodology, but can also be used in exposive and collaborative methodologies. They are excellent at developing deep understanding of complex systems, building procedural skills and the effective illustration of data ",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Webinars and events",
+            "capsule_permalink": "webinars-events",
+            "content_type" : "Webinars and Events",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "far fa-calendar-alt",
+            "capsule_content" : "Webinars and events are used in a multitude of different learning and development scenario's. Webinars and events allow key information and messaging to be broadly broadcast to a large number of participants, and their proper design, and integration into learning materials can be massively effective.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Podcasts, audio and interviews",
+            "capsule_permalink": "podcasts-audio-interviews",
+            "content_type" : "audio",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-music",
+            "capsule_podcast" : "how-to-find-your-why-the-infinite-game-simon-sinek.wav",
+            "capsule_podcast_cover" : "how-to-find-your-why-the-infinite-game-simon-sinek.jpg",
+            "capsule_content" : "Podcasts, audio and interviews are used for different applications. Audio can be used to illustrate specific conditions, or sounds, while interviews and podcasts can be used in application methodologies, such as case studies, job aids, deep knowledge development and procedural skills.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Games",
+            "capsule_permalink": "games",
+            "content_type" : "Game",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-gamepad",
+            "capsule_content" : "The use of games and simulation based technologies can promote the application of knowledge learnt within the system. Games based technologies allow the development of deep understanding within complex information, processes or systems, as well as role plays to develop interpersonal skills and attitudinal changes in members.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Case Studies",
+            "capsule_permalink": "case-studies",
+            "content_type" : "Case Study",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-search",
+            "capsule_content" : "Case studies illustrate ideas in action, allowing the member to see and understand the technology, idea or methodology in action. Ideally, case studies should be used with open questioning to develop understanding along with the explanation in action.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Video (static)",
+            "capsule_permalink": "video-static",
+            "content_type" : "Static Video",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-video",
+            "capsule_content" : "Static video has a high degree of application within learning, from illustration of concepts, presentations, knowledge transfer as well as illustration. Properly designed video content is highly interactive, short in duration and is specifically designed and developed to illustrate a core message or purpose.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Video (dynamic)",
+            "capsule_permalink": "video-dynamic",
+            "content_type" : "Dynamic Video",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-photo-video",
+            "capsule_content" : "Dynamic or interactive video illustrates a learning journey by integrating interactive learning interventions, such as multiple choice questions, downloads, lists, pictures and audio to create interactive action based video.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Infographic",
+            "capsule_permalink": "infographic",
+            "content_type" : "Infographic",
+            "capsule_featured_image" : "",
+            "capsule_infographic_image" : "infographics.jpg",
+            "capsule_thumbnail" : "fas fa-chart-line",
+            "capsule_content" : "Infographics are graphic visual representations of information, data, or knowledge intended to present information quickly and clearly. Infographics improve cognition by utilizing graphics to enhance the human visual system's ability to see patterns and trends.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Problem solving and simulations",
+            "capsule_permalink": "Problem-solving-simulations",
+            "content_type" : "Problem Solving and Simulations",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-brain",
+            "capsule_content" : "Simulations and problem solving scenario's are used to illustrate, and formatively assess and test a members knowledge transfer and understanding. Through the use of simulations, a member can apply their understanding and develop their skills in a safe, illustrative space.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Checklists",
+            "capsule_permalink": "checklists",
+            "content_type" : "Checklists",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-tasks",
+            "capsule_content" : "A checklist is a type of job aid used to reduce failure by compensating for potential limits of human memory and attention. They are best used as job aids, where they provide just-in-time information and guidance.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Text and articles",
+            "capsule_permalink": "text-articles",
+            "content_type" : "Text and Articles",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-text-height",
+            "capsule_content" : "Text and articles are the core of learning material. Through the use of properly curated, and expertly written copy, learning material can be specifically delivered and designed for maximum impact and transfer. It can be used in multiple applications, scenarios and learning methodologies.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "eBooks and manuals",
+            "capsule_permalink": "ebooks-manuals",
+            "content_type" : "eBooks and manuals",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-book",
+            "capsule_ebook_cover" : "online-advertising-cover.jpg",
+            "capsule_ebook_link" : "online-advertising.pdf",
+            "capsule_content" : "eBooks and manuals are generally material that contain the corporate intelligence of an organization, how the business or function does what it does. They are best leveraged through providing the source of business intelligence within the learning pathway through the use of a download or share option, or integrating specific chapters or pages of a given manual or process.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Polls and Surveys",
+            "capsule_permalink": "polls-surveys",
+            "content_type" : "Polls and Surveys",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-poll-h",
+            "capsule_content" : "Polls and surveys have huge application within a learning environment. They can be used to increase interaction with material, increase synchronicity, gather feedback and information and multiple other uses.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Assessments",
+            "capsule_permalink": "assessments",
+            "content_type" : "Assessments",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-user-check",
+            "capsule_content" : "The foundation of proper assessment is to ensure tight packaging between the learning outcomes, the learning activity and the assessment of that activity. It is essential that assessments are not merely completed so that participants can pass the programme, without the true objective of the course occurring, which is to build new competencies and knowledge.",
+            "time_to_complete" : "2 Minutes"
+          }
+        ]
+      }
+    ],
+    "completed": true
+  },
+  {
+    "courseName": "High Voltage Selling",
+    "permalink": "high-voltage-selling",
+    "course_heroImage": "high-voltage-selling-course-heroImage.jpg",
+    "course_thumbnail" : "high-voltage-sales.jpg",
+    "content":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Expedita neque alias omnis adipisci repellendus necessitatibus atque quidem maxime cumque iusto dignissimos officia delectus aut, iure asperiores unde laudantium error aliquam.",
+    "topic" : [
+      {
+        "topic_name" : "Topic 1:",
+        "topic_image" : "",
+        "topic_thumbnail" : "",
+        "topic_content" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quasi omnis suscipit alias ea, odit incidunt ducimus placeat perferendis architecto est accusantium voluptatum distinctio natus, sapiente magni accusamus nemo ratione quod?",
+        "permalink" : "topic-1",
+        "capsule" : [
+          {
+            "capsule_Name" : "Presentations and slideshares",
+            "capsule_permalink": "presentations-slideshares",
+            "content_type" : "Presentations and Slideshares",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fab fa-slideshare",
+            "capsule_content" : "A presentation or slideshare is a group of content, presented in slide or powerpoint format, and is used to facilitate knowledge acquisition (mainly conceptual and factual knowledge), orientation, motivation, attitudinal change.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Charts and Graphs",
+            "capsule_permalink": "charts-Graph",
+            "content_type" : "Charts and Graphs",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-chart-pie",
+            "capsule_content" : "Charts, graphs and diagrams are used to easily illustrate complex data to an audience. They are generally used in both application methodology, but can also be used in exposive and collaborative methodologies. They are excellent at developing deep understanding of complex systems, building procedural skills and the effective illustration of data ",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Webinars and events",
+            "capsule_permalink": "webinars-events",
+            "content_type" : "Webinars and Events",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "far fa-calendar-alt",
+            "capsule_content" : "Webinars and events are used in a multitude of different learning and development scenario's. Webinars and events allow key information and messaging to be broadly broadcast to a large number of participants, and their proper design, and integration into learning materials can be massively effective.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Podcasts, audio and interviews",
+            "capsule_permalink": "podcasts-audio-interviews",
+            "content_type" : "audio",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-music",
+            "capsule_podcast" : "how-to-find-your-why-the-infinite-game-simon-sinek.wav",
+            "capsule_podcast_cover" : "how-to-find-your-why-the-infinite-game-simon-sinek.jpg",
+            "capsule_content" : "Podcasts, audio and interviews are used for different applications. Audio can be used to illustrate specific conditions, or sounds, while interviews and podcasts can be used in application methodologies, such as case studies, job aids, deep knowledge development and procedural skills.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Games",
+            "capsule_permalink": "games",
+            "content_type" : "Game",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-gamepad",
+            "capsule_content" : "The use of games and simulation based technologies can promote the application of knowledge learnt within the system. Games based technologies allow the development of deep understanding within complex information, processes or systems, as well as role plays to develop interpersonal skills and attitudinal changes in members.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Case Studies",
+            "capsule_permalink": "case-studies",
+            "content_type" : "Case Study",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-search",
+            "capsule_content" : "Case studies illustrate ideas in action, allowing the member to see and understand the technology, idea or methodology in action. Ideally, case studies should be used with open questioning to develop understanding along with the explanation in action.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Video (static)",
+            "capsule_permalink": "video-static",
+            "content_type" : "Static Video",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-video",
+            "capsule_content" : "Static video has a high degree of application within learning, from illustration of concepts, presentations, knowledge transfer as well as illustration. Properly designed video content is highly interactive, short in duration and is specifically designed and developed to illustrate a core message or purpose.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Video (dynamic)",
+            "capsule_permalink": "video-dynamic",
+            "content_type" : "Dynamic Video",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-photo-video",
+            "capsule_content" : "Dynamic or interactive video illustrates a learning journey by integrating interactive learning interventions, such as multiple choice questions, downloads, lists, pictures and audio to create interactive action based video.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Infographic",
+            "capsule_permalink": "infographic",
+            "content_type" : "Infographic",
+            "capsule_featured_image" : "",
+            "capsule_infographic_image" : "infographics.jpg",
+            "capsule_thumbnail" : "fas fa-chart-line",
+            "capsule_content" : "Infographics are graphic visual representations of information, data, or knowledge intended to present information quickly and clearly. Infographics improve cognition by utilizing graphics to enhance the human visual system's ability to see patterns and trends.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Problem solving and simulations",
+            "capsule_permalink": "Problem-solving-simulations",
+            "content_type" : "Problem Solving and Simulations",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-brain",
+            "capsule_content" : "Simulations and problem solving scenario's are used to illustrate, and formatively assess and test a members knowledge transfer and understanding. Through the use of simulations, a member can apply their understanding and develop their skills in a safe, illustrative space.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Checklists",
+            "capsule_permalink": "checklists",
+            "content_type" : "Checklists",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-tasks",
+            "capsule_content" : "A checklist is a type of job aid used to reduce failure by compensating for potential limits of human memory and attention. They are best used as job aids, where they provide just-in-time information and guidance.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Text and articles",
+            "capsule_permalink": "text-articles",
+            "content_type" : "Text and Articles",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-text-height",
+            "capsule_content" : "Text and articles are the core of learning material. Through the use of properly curated, and expertly written copy, learning material can be specifically delivered and designed for maximum impact and transfer. It can be used in multiple applications, scenarios and learning methodologies.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "eBooks and manuals",
+            "capsule_permalink": "ebooks-manuals",
+            "content_type" : "eBooks and manuals",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-book",
+            "capsule_ebook_cover" : "online-advertising-cover.jpg",
+            "capsule_ebook_link" : "online-advertising.pdf",
+            "capsule_content" : "eBooks and manuals are generally material that contain the corporate intelligence of an organization, how the business or function does what it does. They are best leveraged through providing the source of business intelligence within the learning pathway through the use of a download or share option, or integrating specific chapters or pages of a given manual or process.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Polls and Surveys",
+            "capsule_permalink": "polls-surveys",
+            "content_type" : "Polls and Surveys",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-poll-h",
+            "capsule_content" : "Polls and surveys have huge application within a learning environment. They can be used to increase interaction with material, increase synchronicity, gather feedback and information and multiple other uses.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Assessments",
+            "capsule_permalink": "assessments",
+            "content_type" : "Assessments",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-user-check",
+            "capsule_content" : "The foundation of proper assessment is to ensure tight packaging between the learning outcomes, the learning activity and the assessment of that activity. It is essential that assessments are not merely completed so that participants can pass the programme, without the true objective of the course occurring, which is to build new competencies and knowledge.",
+            "time_to_complete" : "2 Minutes"
+          }
+        ]
+      },
+      {
+        "topic_name" : "Topic 2:",
+        "topic_image" : "",
+        "topic_thumbnail" : "",
+        "topic_content" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corporis, laudantium ipsam velit? Qui officia rem nobis tenetur impedit, praesentium perspiciatis eveniet deserunt tempore nemo at, eum placeat porro ad accusantium.",
+        "permalink" : "topic-2",
+        "capsule" : [
+          {
+            "capsule_Name" : "Presentations and slideshares",
+            "capsule_permalink": "presentations-slideshares",
+            "content_type" : "Presentations and Slideshares",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fab fa-slideshare",
+            "capsule_content" : "A presentation or slideshare is a group of content, presented in slide or powerpoint format, and is used to facilitate knowledge acquisition (mainly conceptual and factual knowledge), orientation, motivation, attitudinal change.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Charts and Graphs",
+            "capsule_permalink": "charts-Graph",
+            "content_type" : "Charts and Graphs",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-chart-pie",
+            "capsule_content" : "Charts, graphs and diagrams are used to easily illustrate complex data to an audience. They are generally used in both application methodology, but can also be used in exposive and collaborative methodologies. They are excellent at developing deep understanding of complex systems, building procedural skills and the effective illustration of data ",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Webinars and events",
+            "capsule_permalink": "webinars-events",
+            "content_type" : "Webinars and Events",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "far fa-calendar-alt",
+            "capsule_content" : "Webinars and events are used in a multitude of different learning and development scenario's. Webinars and events allow key information and messaging to be broadly broadcast to a large number of participants, and their proper design, and integration into learning materials can be massively effective.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Podcasts, audio and interviews",
+            "capsule_permalink": "podcasts-audio-interviews",
+            "content_type" : "audio",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-music",
+            "capsule_podcast" : "how-to-find-your-why-the-infinite-game-simon-sinek.wav",
+            "capsule_podcast_cover" : "how-to-find-your-why-the-infinite-game-simon-sinek.jpg",
+            "capsule_content" : "Podcasts, audio and interviews are used for different applications. Audio can be used to illustrate specific conditions, or sounds, while interviews and podcasts can be used in application methodologies, such as case studies, job aids, deep knowledge development and procedural skills.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Games",
+            "capsule_permalink": "games",
+            "content_type" : "Game",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-gamepad",
+            "capsule_content" : "The use of games and simulation based technologies can promote the application of knowledge learnt within the system. Games based technologies allow the development of deep understanding within complex information, processes or systems, as well as role plays to develop interpersonal skills and attitudinal changes in members.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Case Studies",
+            "capsule_permalink": "case-studies",
+            "content_type" : "Case Study",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-search",
+            "capsule_content" : "Case studies illustrate ideas in action, allowing the member to see and understand the technology, idea or methodology in action. Ideally, case studies should be used with open questioning to develop understanding along with the explanation in action.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Video (static)",
+            "capsule_permalink": "video-static",
+            "content_type" : "Static Video",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-video",
+            "capsule_content" : "Static video has a high degree of application within learning, from illustration of concepts, presentations, knowledge transfer as well as illustration. Properly designed video content is highly interactive, short in duration and is specifically designed and developed to illustrate a core message or purpose.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Video (dynamic)",
+            "capsule_permalink": "video-dynamic",
+            "content_type" : "Dynamic Video",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-photo-video",
+            "capsule_content" : "Dynamic or interactive video illustrates a learning journey by integrating interactive learning interventions, such as multiple choice questions, downloads, lists, pictures and audio to create interactive action based video.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Infographic",
+            "capsule_permalink": "infographic",
+            "content_type" : "Infographic",
+            "capsule_featured_image" : "",
+            "capsule_infographic_image" : "infographics.jpg",
+            "capsule_thumbnail" : "fas fa-chart-line",
+            "capsule_content" : "Infographics are graphic visual representations of information, data, or knowledge intended to present information quickly and clearly. Infographics improve cognition by utilizing graphics to enhance the human visual system's ability to see patterns and trends.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Problem solving and simulations",
+            "capsule_permalink": "Problem-solving-simulations",
+            "content_type" : "Problem Solving and Simulations",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-brain",
+            "capsule_content" : "Simulations and problem solving scenario's are used to illustrate, and formatively assess and test a members knowledge transfer and understanding. Through the use of simulations, a member can apply their understanding and develop their skills in a safe, illustrative space.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Checklists",
+            "capsule_permalink": "checklists",
+            "content_type" : "Checklists",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-tasks",
+            "capsule_content" : "A checklist is a type of job aid used to reduce failure by compensating for potential limits of human memory and attention. They are best used as job aids, where they provide just-in-time information and guidance.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Text and articles",
+            "capsule_permalink": "text-articles",
+            "content_type" : "Text and Articles",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-text-height",
+            "capsule_content" : "Text and articles are the core of learning material. Through the use of properly curated, and expertly written copy, learning material can be specifically delivered and designed for maximum impact and transfer. It can be used in multiple applications, scenarios and learning methodologies.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "eBooks and manuals",
+            "capsule_permalink": "ebooks-manuals",
+            "content_type" : "eBooks and manuals",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-book",
+            "capsule_ebook_cover" : "online-advertising-cover.jpg",
+            "capsule_ebook_link" : "online-advertising.pdf",
+            "capsule_content" : "eBooks and manuals are generally material that contain the corporate intelligence of an organization, how the business or function does what it does. They are best leveraged through providing the source of business intelligence within the learning pathway through the use of a download or share option, or integrating specific chapters or pages of a given manual or process.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Polls and Surveys",
+            "capsule_permalink": "polls-surveys",
+            "content_type" : "Polls and Surveys",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-poll-h",
+            "capsule_content" : "Polls and surveys have huge application within a learning environment. They can be used to increase interaction with material, increase synchronicity, gather feedback and information and multiple other uses.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Assessments",
+            "capsule_permalink": "assessments",
+            "content_type" : "Assessments",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-user-check",
+            "capsule_content" : "The foundation of proper assessment is to ensure tight packaging between the learning outcomes, the learning activity and the assessment of that activity. It is essential that assessments are not merely completed so that participants can pass the programme, without the true objective of the course occurring, which is to build new competencies and knowledge.",
+            "time_to_complete" : "2 Minutes"
+          }
+        ]
+      },
+      {
+        "topic_name" : "Topic 3:",
+        "topic_image" : "",
+        "topic_thumbnail" : "",
+        "topic_content" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nemo eveniet accusantium accusamus ad obcaecati. Molestiae alias aliquam iste earum, nihil voluptates amet numquam quia dolore distinctio. Labore cumque, at ducimus.",
+        "permalink" : "topic-3",
+        "capsule" : [
+          {
+            "capsule_Name" : "Presentations and slideshares",
+            "capsule_permalink": "presentations-slideshares",
+            "content_type" : "Presentations and Slideshares",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fab fa-slideshare",
+            "capsule_content" : "A presentation or slideshare is a group of content, presented in slide or powerpoint format, and is used to facilitate knowledge acquisition (mainly conceptual and factual knowledge), orientation, motivation, attitudinal change.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Charts and Graphs",
+            "capsule_permalink": "charts-Graph",
+            "content_type" : "Charts and Graphs",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-chart-pie",
+            "capsule_content" : "Charts, graphs and diagrams are used to easily illustrate complex data to an audience. They are generally used in both application methodology, but can also be used in exposive and collaborative methodologies. They are excellent at developing deep understanding of complex systems, building procedural skills and the effective illustration of data ",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Webinars and events",
+            "capsule_permalink": "webinars-events",
+            "content_type" : "Webinars and Events",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "far fa-calendar-alt",
+            "capsule_content" : "Webinars and events are used in a multitude of different learning and development scenario's. Webinars and events allow key information and messaging to be broadly broadcast to a large number of participants, and their proper design, and integration into learning materials can be massively effective.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Podcasts, audio and interviews",
+            "capsule_permalink": "podcasts-audio-interviews",
+            "content_type" : "audio",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-music",
+            "capsule_podcast" : "how-to-find-your-why-the-infinite-game-simon-sinek.wav",
+            "capsule_podcast_cover" : "how-to-find-your-why-the-infinite-game-simon-sinek.jpg",
+            "capsule_content" : "Podcasts, audio and interviews are used for different applications. Audio can be used to illustrate specific conditions, or sounds, while interviews and podcasts can be used in application methodologies, such as case studies, job aids, deep knowledge development and procedural skills.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Games",
+            "capsule_permalink": "games",
+            "content_type" : "Game",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-gamepad",
+            "capsule_content" : "The use of games and simulation based technologies can promote the application of knowledge learnt within the system. Games based technologies allow the development of deep understanding within complex information, processes or systems, as well as role plays to develop interpersonal skills and attitudinal changes in members.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Case Studies",
+            "capsule_permalink": "case-studies",
+            "content_type" : "Case Study",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-search",
+            "capsule_content" : "Case studies illustrate ideas in action, allowing the member to see and understand the technology, idea or methodology in action. Ideally, case studies should be used with open questioning to develop understanding along with the explanation in action.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Video (static)",
+            "capsule_permalink": "video-static",
+            "content_type" : "Static Video",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-video",
+            "capsule_content" : "Static video has a high degree of application within learning, from illustration of concepts, presentations, knowledge transfer as well as illustration. Properly designed video content is highly interactive, short in duration and is specifically designed and developed to illustrate a core message or purpose.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Video (dynamic)",
+            "capsule_permalink": "video-dynamic",
+            "content_type" : "Dynamic Video",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-photo-video",
+            "capsule_content" : "Dynamic or interactive video illustrates a learning journey by integrating interactive learning interventions, such as multiple choice questions, downloads, lists, pictures and audio to create interactive action based video.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Infographic",
+            "capsule_permalink": "infographic",
+            "content_type" : "Infographic",
+            "capsule_featured_image" : "",
+            "capsule_infographic_image" : "infographics.jpg",
+            "capsule_thumbnail" : "fas fa-chart-line",
+            "capsule_content" : "Infographics are graphic visual representations of information, data, or knowledge intended to present information quickly and clearly. Infographics improve cognition by utilizing graphics to enhance the human visual system's ability to see patterns and trends.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Problem solving and simulations",
+            "capsule_permalink": "Problem-solving-simulations",
+            "content_type" : "Problem Solving and Simulations",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-brain",
+            "capsule_content" : "Simulations and problem solving scenario's are used to illustrate, and formatively assess and test a members knowledge transfer and understanding. Through the use of simulations, a member can apply their understanding and develop their skills in a safe, illustrative space.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Checklists",
+            "capsule_permalink": "checklists",
+            "content_type" : "Checklists",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-tasks",
+            "capsule_content" : "A checklist is a type of job aid used to reduce failure by compensating for potential limits of human memory and attention. They are best used as job aids, where they provide just-in-time information and guidance.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Text and articles",
+            "capsule_permalink": "text-articles",
+            "content_type" : "Text and Articles",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-text-height",
+            "capsule_content" : "Text and articles are the core of learning material. Through the use of properly curated, and expertly written copy, learning material can be specifically delivered and designed for maximum impact and transfer. It can be used in multiple applications, scenarios and learning methodologies.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "eBooks and manuals",
+            "capsule_permalink": "ebooks-manuals",
+            "content_type" : "eBooks and manuals",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-book",
+            "capsule_ebook_cover" : "online-advertising-cover.jpg",
+            "capsule_ebook_link" : "online-advertising.pdf",
+            "capsule_content" : "eBooks and manuals are generally material that contain the corporate intelligence of an organization, how the business or function does what it does. They are best leveraged through providing the source of business intelligence within the learning pathway through the use of a download or share option, or integrating specific chapters or pages of a given manual or process.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Polls and Surveys",
+            "capsule_permalink": "polls-surveys",
+            "content_type" : "Polls and Surveys",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-poll-h",
+            "capsule_content" : "Polls and surveys have huge application within a learning environment. They can be used to increase interaction with material, increase synchronicity, gather feedback and information and multiple other uses.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Assessments",
+            "capsule_permalink": "assessments",
+            "content_type" : "Assessments",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-user-check",
+            "capsule_content" : "The foundation of proper assessment is to ensure tight packaging between the learning outcomes, the learning activity and the assessment of that activity. It is essential that assessments are not merely completed so that participants can pass the programme, without the true objective of the course occurring, which is to build new competencies and knowledge.",
+            "time_to_complete" : "2 Minutes"
+          }
+        ]
+      },
+      {
+        "topic_name" : "Topic 4:",
+        "topic_image" : "",
+        "topic_thumbnail" : "",
+        "topic_content" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestiae eius totam iure pariatur repellendus, nesciunt vel maiores temporibus porro alias quibusdam, tenetur sunt. Totam minus facilis vero ducimus, illo praesentium!",
+        "permalink" : "topic-4",
+        "capsule" : [
+          {
+            "capsule_Name" : "Presentations and slideshares",
+            "capsule_permalink": "presentations-slideshares",
+            "content_type" : "Presentations and Slideshares",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fab fa-slideshare",
+            "capsule_content" : "A presentation or slideshare is a group of content, presented in slide or powerpoint format, and is used to facilitate knowledge acquisition (mainly conceptual and factual knowledge), orientation, motivation, attitudinal change.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Charts and Graphs",
+            "capsule_permalink": "charts-Graph",
+            "content_type" : "Charts and Graphs",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-chart-pie",
+            "capsule_content" : "Charts, graphs and diagrams are used to easily illustrate complex data to an audience. They are generally used in both application methodology, but can also be used in exposive and collaborative methodologies. They are excellent at developing deep understanding of complex systems, building procedural skills and the effective illustration of data ",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Webinars and events",
+            "capsule_permalink": "webinars-events",
+            "content_type" : "Webinars and Events",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "far fa-calendar-alt",
+            "capsule_content" : "Webinars and events are used in a multitude of different learning and development scenario's. Webinars and events allow key information and messaging to be broadly broadcast to a large number of participants, and their proper design, and integration into learning materials can be massively effective.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Podcasts, audio and interviews",
+            "capsule_permalink": "podcasts-audio-interviews",
+            "content_type" : "audio",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-music",
+            "capsule_podcast" : "how-to-find-your-why-the-infinite-game-simon-sinek.wav",
+            "capsule_podcast_cover" : "how-to-find-your-why-the-infinite-game-simon-sinek.jpg",
+            "capsule_content" : "Podcasts, audio and interviews are used for different applications. Audio can be used to illustrate specific conditions, or sounds, while interviews and podcasts can be used in application methodologies, such as case studies, job aids, deep knowledge development and procedural skills.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Games",
+            "capsule_permalink": "games",
+            "content_type" : "Game",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-gamepad",
+            "capsule_content" : "The use of games and simulation based technologies can promote the application of knowledge learnt within the system. Games based technologies allow the development of deep understanding within complex information, processes or systems, as well as role plays to develop interpersonal skills and attitudinal changes in members.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Case Studies",
+            "capsule_permalink": "case-studies",
+            "content_type" : "Case Study",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-search",
+            "capsule_content" : "Case studies illustrate ideas in action, allowing the member to see and understand the technology, idea or methodology in action. Ideally, case studies should be used with open questioning to develop understanding along with the explanation in action.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Video (static)",
+            "capsule_permalink": "video-static",
+            "content_type" : "Static Video",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-video",
+            "capsule_content" : "Static video has a high degree of application within learning, from illustration of concepts, presentations, knowledge transfer as well as illustration. Properly designed video content is highly interactive, short in duration and is specifically designed and developed to illustrate a core message or purpose.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Video (dynamic)",
+            "capsule_permalink": "video-dynamic",
+            "content_type" : "Dynamic Video",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-photo-video",
+            "capsule_content" : "Dynamic or interactive video illustrates a learning journey by integrating interactive learning interventions, such as multiple choice questions, downloads, lists, pictures and audio to create interactive action based video.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Infographic",
+            "capsule_permalink": "infographic",
+            "content_type" : "Infographic",
+            "capsule_featured_image" : "",
+            "capsule_infographic_image" : "infographics.jpg",
+            "capsule_thumbnail" : "fas fa-chart-line",
+            "capsule_content" : "Infographics are graphic visual representations of information, data, or knowledge intended to present information quickly and clearly. Infographics improve cognition by utilizing graphics to enhance the human visual system's ability to see patterns and trends.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Problem solving and simulations",
+            "capsule_permalink": "Problem-solving-simulations",
+            "content_type" : "Problem Solving and Simulations",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-brain",
+            "capsule_content" : "Simulations and problem solving scenario's are used to illustrate, and formatively assess and test a members knowledge transfer and understanding. Through the use of simulations, a member can apply their understanding and develop their skills in a safe, illustrative space.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Checklists",
+            "capsule_permalink": "checklists",
+            "content_type" : "Checklists",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-tasks",
+            "capsule_content" : "A checklist is a type of job aid used to reduce failure by compensating for potential limits of human memory and attention. They are best used as job aids, where they provide just-in-time information and guidance.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Text and articles",
+            "capsule_permalink": "text-articles",
+            "content_type" : "Text and Articles",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-text-height",
+            "capsule_content" : "Text and articles are the core of learning material. Through the use of properly curated, and expertly written copy, learning material can be specifically delivered and designed for maximum impact and transfer. It can be used in multiple applications, scenarios and learning methodologies.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "eBooks and manuals",
+            "capsule_permalink": "ebooks-manuals",
+            "content_type" : "eBooks and manuals",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-book",
+            "capsule_ebook_cover" : "online-advertising-cover.jpg",
+            "capsule_ebook_link" : "online-advertising.pdf",
+            "capsule_content" : "eBooks and manuals are generally material that contain the corporate intelligence of an organization, how the business or function does what it does. They are best leveraged through providing the source of business intelligence within the learning pathway through the use of a download or share option, or integrating specific chapters or pages of a given manual or process.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Polls and Surveys",
+            "capsule_permalink": "polls-surveys",
+            "content_type" : "Polls and Surveys",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-poll-h",
+            "capsule_content" : "Polls and surveys have huge application within a learning environment. They can be used to increase interaction with material, increase synchronicity, gather feedback and information and multiple other uses.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Assessments",
+            "capsule_permalink": "assessments",
+            "content_type" : "Assessments",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-user-check",
+            "capsule_content" : "The foundation of proper assessment is to ensure tight packaging between the learning outcomes, the learning activity and the assessment of that activity. It is essential that assessments are not merely completed so that participants can pass the programme, without the true objective of the course occurring, which is to build new competencies and knowledge.",
+            "time_to_complete" : "2 Minutes"
+          }
+        ]
+      }
+    ],
+    "completed": true
+  },
+
+  {
+    "courseName": "Product training",
+    "permalink": "product-training",
+    "course_heroImage": "product-training-course-heroImage.jpg",
+    "course_thumbnail" : "product-training.jpg",
+    "content":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quos rem doloribus eum cupiditate maiores sint libero aperiam totam ratione iure. Quidem sit sint amet! Et blanditiis, temporibus ducimus quaerat odit.",
+    "topic" : [
+      {
+        "topic_name" : "Topic 1:",
+        "topic_image" : "",
+        "topic_thumbnail" : "",
+        "topic_content" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod tenetur mollitia veniam error. Sequi blanditiis rerum reiciendis inventore sint autem hic, esse a aperiam doloribus dolor libero odio saepe voluptatum?",
+        "permalink" : "topic-1",
+        "capsule" : [
+          {
+            "capsule_Name" : "Presentations and slideshares",
+            "capsule_permalink": "presentations-slideshares",
+            "content_type" : "Presentations and Slideshares",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fab fa-slideshare",
+            "capsule_content" : "A presentation or slideshare is a group of content, presented in slide or powerpoint format, and is used to facilitate knowledge acquisition (mainly conceptual and factual knowledge), orientation, motivation, attitudinal change.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Charts and Graphs",
+            "capsule_permalink": "charts-Graph",
+            "content_type" : "Charts and Graphs",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-chart-pie",
+            "capsule_content" : "Charts, graphs and diagrams are used to easily illustrate complex data to an audience. They are generally used in both application methodology, but can also be used in exposive and collaborative methodologies. They are excellent at developing deep understanding of complex systems, building procedural skills and the effective illustration of data ",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Webinars and events",
+            "capsule_permalink": "webinars-events",
+            "content_type" : "Webinars and Events",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "far fa-calendar-alt",
+            "capsule_content" : "Webinars and events are used in a multitude of different learning and development scenario's. Webinars and events allow key information and messaging to be broadly broadcast to a large number of participants, and their proper design, and integration into learning materials can be massively effective.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Podcasts, audio and interviews",
+            "capsule_permalink": "podcasts-audio-interviews",
+            "content_type" : "audio",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-music",
+            "capsule_podcast" : "how-to-find-your-why-the-infinite-game-simon-sinek.wav",
+            "capsule_podcast_cover" : "how-to-find-your-why-the-infinite-game-simon-sinek.jpg",
+            "capsule_content" : "Podcasts, audio and interviews are used for different applications. Audio can be used to illustrate specific conditions, or sounds, while interviews and podcasts can be used in application methodologies, such as case studies, job aids, deep knowledge development and procedural skills.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Games",
+            "capsule_permalink": "games",
+            "content_type" : "Game",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-gamepad",
+            "capsule_content" : "The use of games and simulation based technologies can promote the application of knowledge learnt within the system. Games based technologies allow the development of deep understanding within complex information, processes or systems, as well as role plays to develop interpersonal skills and attitudinal changes in members.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Case Studies",
+            "capsule_permalink": "case-studies",
+            "content_type" : "Case Study",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-search",
+            "capsule_content" : "Case studies illustrate ideas in action, allowing the member to see and understand the technology, idea or methodology in action. Ideally, case studies should be used with open questioning to develop understanding along with the explanation in action.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Video (static)",
+            "capsule_permalink": "video-static",
+            "content_type" : "Static Video",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-video",
+            "capsule_content" : "Static video has a high degree of application within learning, from illustration of concepts, presentations, knowledge transfer as well as illustration. Properly designed video content is highly interactive, short in duration and is specifically designed and developed to illustrate a core message or purpose.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Video (dynamic)",
+            "capsule_permalink": "video-dynamic",
+            "content_type" : "Dynamic Video",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-photo-video",
+            "capsule_content" : "Dynamic or interactive video illustrates a learning journey by integrating interactive learning interventions, such as multiple choice questions, downloads, lists, pictures and audio to create interactive action based video.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Infographic",
+            "capsule_permalink": "infographic",
+            "content_type" : "Infographic",
+            "capsule_featured_image" : "",
+            "capsule_infographic_image" : "infographics.jpg",
+            "capsule_thumbnail" : "fas fa-chart-line",
+            "capsule_content" : "Infographics are graphic visual representations of information, data, or knowledge intended to present information quickly and clearly. Infographics improve cognition by utilizing graphics to enhance the human visual system's ability to see patterns and trends.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Problem solving and simulations",
+            "capsule_permalink": "Problem-solving-simulations",
+            "content_type" : "Problem Solving and Simulations",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-brain",
+            "capsule_content" : "Simulations and problem solving scenario's are used to illustrate, and formatively assess and test a members knowledge transfer and understanding. Through the use of simulations, a member can apply their understanding and develop their skills in a safe, illustrative space.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Checklists",
+            "capsule_permalink": "checklists",
+            "content_type" : "Checklists",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-tasks",
+            "capsule_content" : "A checklist is a type of job aid used to reduce failure by compensating for potential limits of human memory and attention. They are best used as job aids, where they provide just-in-time information and guidance.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Text and articles",
+            "capsule_permalink": "text-articles",
+            "content_type" : "Text and Articles",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-text-height",
+            "capsule_content" : "Text and articles are the core of learning material. Through the use of properly curated, and expertly written copy, learning material can be specifically delivered and designed for maximum impact and transfer. It can be used in multiple applications, scenarios and learning methodologies.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "eBooks and manuals",
+            "capsule_permalink": "ebooks-manuals",
+            "content_type" : "eBooks and manuals",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-book",
+            "capsule_ebook_cover" : "online-advertising-cover.jpg",
+            "capsule_ebook_link" : "online-advertising.pdf",
+            "capsule_content" : "eBooks and manuals are generally material that contain the corporate intelligence of an organization, how the business or function does what it does. They are best leveraged through providing the source of business intelligence within the learning pathway through the use of a download or share option, or integrating specific chapters or pages of a given manual or process.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Polls and Surveys",
+            "capsule_permalink": "polls-surveys",
+            "content_type" : "Polls and Surveys",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-poll-h",
+            "capsule_content" : "Polls and surveys have huge application within a learning environment. They can be used to increase interaction with material, increase synchronicity, gather feedback and information and multiple other uses.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Assessments",
+            "capsule_permalink": "assessments",
+            "content_type" : "Assessments",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-user-check",
+            "capsule_content" : "The foundation of proper assessment is to ensure tight packaging between the learning outcomes, the learning activity and the assessment of that activity. It is essential that assessments are not merely completed so that participants can pass the programme, without the true objective of the course occurring, which is to build new competencies and knowledge.",
+            "time_to_complete" : "2 Minutes"
+          }
+        ]
+      },
+      {
+        "topic_name" : "Topic 2:",
+        "topic_image" : "",
+        "topic_thumbnail" : "",
+        "topic_content" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum, possimus sint recusandae architecto enim nemo quisquam adipisci sunt ad obcaecati facere illo consequuntur voluptatum repellat, dicta at praesentium odio, quod!",
+        "permalink" : "topic-2",
+        "capsule" : [
+          {
+            "capsule_Name" : "Presentations and slideshares",
+            "capsule_permalink": "presentations-slideshares",
+            "content_type" : "Presentations and Slideshares",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fab fa-slideshare",
+            "capsule_content" : "A presentation or slideshare is a group of content, presented in slide or powerpoint format, and is used to facilitate knowledge acquisition (mainly conceptual and factual knowledge), orientation, motivation, attitudinal change.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Charts and Graphs",
+            "capsule_permalink": "charts-Graph",
+            "content_type" : "Charts and Graphs",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-chart-pie",
+            "capsule_content" : "Charts, graphs and diagrams are used to easily illustrate complex data to an audience. They are generally used in both application methodology, but can also be used in exposive and collaborative methodologies. They are excellent at developing deep understanding of complex systems, building procedural skills and the effective illustration of data ",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Webinars and events",
+            "capsule_permalink": "webinars-events",
+            "content_type" : "Webinars and Events",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "far fa-calendar-alt",
+            "capsule_content" : "Webinars and events are used in a multitude of different learning and development scenario's. Webinars and events allow key information and messaging to be broadly broadcast to a large number of participants, and their proper design, and integration into learning materials can be massively effective.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Podcasts, audio and interviews",
+            "capsule_permalink": "podcasts-audio-interviews",
+            "content_type" : "audio",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-music",
+            "capsule_podcast" : "how-to-find-your-why-the-infinite-game-simon-sinek.wav",
+            "capsule_podcast_cover" : "how-to-find-your-why-the-infinite-game-simon-sinek.jpg",
+            "capsule_content" : "Podcasts, audio and interviews are used for different applications. Audio can be used to illustrate specific conditions, or sounds, while interviews and podcasts can be used in application methodologies, such as case studies, job aids, deep knowledge development and procedural skills.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Games",
+            "capsule_permalink": "games",
+            "content_type" : "Game",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-gamepad",
+            "capsule_content" : "The use of games and simulation based technologies can promote the application of knowledge learnt within the system. Games based technologies allow the development of deep understanding within complex information, processes or systems, as well as role plays to develop interpersonal skills and attitudinal changes in members.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Case Studies",
+            "capsule_permalink": "case-studies",
+            "content_type" : "Case Study",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-search",
+            "capsule_content" : "Case studies illustrate ideas in action, allowing the member to see and understand the technology, idea or methodology in action. Ideally, case studies should be used with open questioning to develop understanding along with the explanation in action.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Video (static)",
+            "capsule_permalink": "video-static",
+            "content_type" : "Static Video",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-video",
+            "capsule_content" : "Static video has a high degree of application within learning, from illustration of concepts, presentations, knowledge transfer as well as illustration. Properly designed video content is highly interactive, short in duration and is specifically designed and developed to illustrate a core message or purpose.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Video (dynamic)",
+            "capsule_permalink": "video-dynamic",
+            "content_type" : "Dynamic Video",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-photo-video",
+            "capsule_content" : "Dynamic or interactive video illustrates a learning journey by integrating interactive learning interventions, such as multiple choice questions, downloads, lists, pictures and audio to create interactive action based video.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Infographic",
+            "capsule_permalink": "infographic",
+            "content_type" : "Infographic",
+            "capsule_featured_image" : "",
+            "capsule_infographic_image" : "infographics.jpg",
+            "capsule_thumbnail" : "fas fa-chart-line",
+            "capsule_content" : "Infographics are graphic visual representations of information, data, or knowledge intended to present information quickly and clearly. Infographics improve cognition by utilizing graphics to enhance the human visual system's ability to see patterns and trends.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Problem solving and simulations",
+            "capsule_permalink": "Problem-solving-simulations",
+            "content_type" : "Problem Solving and Simulations",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-brain",
+            "capsule_content" : "Simulations and problem solving scenario's are used to illustrate, and formatively assess and test a members knowledge transfer and understanding. Through the use of simulations, a member can apply their understanding and develop their skills in a safe, illustrative space.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Checklists",
+            "capsule_permalink": "checklists",
+            "content_type" : "Checklists",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-tasks",
+            "capsule_content" : "A checklist is a type of job aid used to reduce failure by compensating for potential limits of human memory and attention. They are best used as job aids, where they provide just-in-time information and guidance.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Text and articles",
+            "capsule_permalink": "text-articles",
+            "content_type" : "Text and Articles",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-text-height",
+            "capsule_content" : "Text and articles are the core of learning material. Through the use of properly curated, and expertly written copy, learning material can be specifically delivered and designed for maximum impact and transfer. It can be used in multiple applications, scenarios and learning methodologies.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "eBooks and manuals",
+            "capsule_permalink": "ebooks-manuals",
+            "content_type" : "eBooks and manuals",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-book",
+            "capsule_ebook_cover" : "online-advertising-cover.jpg",
+            "capsule_ebook_link" : "online-advertising.pdf",
+            "capsule_content" : "eBooks and manuals are generally material that contain the corporate intelligence of an organization, how the business or function does what it does. They are best leveraged through providing the source of business intelligence within the learning pathway through the use of a download or share option, or integrating specific chapters or pages of a given manual or process.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Polls and Surveys",
+            "capsule_permalink": "polls-surveys",
+            "content_type" : "Polls and Surveys",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-poll-h",
+            "capsule_content" : "Polls and surveys have huge application within a learning environment. They can be used to increase interaction with material, increase synchronicity, gather feedback and information and multiple other uses.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Assessments",
+            "capsule_permalink": "assessments",
+            "content_type" : "Assessments",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-user-check",
+            "capsule_content" : "The foundation of proper assessment is to ensure tight packaging between the learning outcomes, the learning activity and the assessment of that activity. It is essential that assessments are not merely completed so that participants can pass the programme, without the true objective of the course occurring, which is to build new competencies and knowledge.",
+            "time_to_complete" : "2 Minutes"
+          }
+        ]
+      },
+      {
+        "topic_name" : "Topic 3:",
+        "topic_image" : "",
+        "topic_thumbnail" : "",
+        "topic_content" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo voluptatem, placeat, error ipsa quis, repudiandae fugiat necessitatibus earum voluptas, consequatur amet a. Hic nam a consequatur, fugit blanditiis impedit tempore.",
+        "permalink" : "topic-3",
+        "capsule" : [
+          {
+            "capsule_Name" : "Presentations and slideshares",
+            "capsule_permalink": "presentations-slideshares",
+            "content_type" : "Presentations and Slideshares",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fab fa-slideshare",
+            "capsule_content" : "A presentation or slideshare is a group of content, presented in slide or powerpoint format, and is used to facilitate knowledge acquisition (mainly conceptual and factual knowledge), orientation, motivation, attitudinal change.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Charts and Graphs",
+            "capsule_permalink": "charts-Graph",
+            "content_type" : "Charts and Graphs",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-chart-pie",
+            "capsule_content" : "Charts, graphs and diagrams are used to easily illustrate complex data to an audience. They are generally used in both application methodology, but can also be used in exposive and collaborative methodologies. They are excellent at developing deep understanding of complex systems, building procedural skills and the effective illustration of data ",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Webinars and events",
+            "capsule_permalink": "webinars-events",
+            "content_type" : "Webinars and Events",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "far fa-calendar-alt",
+            "capsule_content" : "Webinars and events are used in a multitude of different learning and development scenario's. Webinars and events allow key information and messaging to be broadly broadcast to a large number of participants, and their proper design, and integration into learning materials can be massively effective.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Podcasts, audio and interviews",
+            "capsule_permalink": "podcasts-audio-interviews",
+            "content_type" : "audio",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-music",
+            "capsule_podcast" : "how-to-find-your-why-the-infinite-game-simon-sinek.wav",
+            "capsule_podcast_cover" : "how-to-find-your-why-the-infinite-game-simon-sinek.jpg",
+            "capsule_content" : "Podcasts, audio and interviews are used for different applications. Audio can be used to illustrate specific conditions, or sounds, while interviews and podcasts can be used in application methodologies, such as case studies, job aids, deep knowledge development and procedural skills.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Games",
+            "capsule_permalink": "games",
+            "content_type" : "Game",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-gamepad",
+            "capsule_content" : "The use of games and simulation based technologies can promote the application of knowledge learnt within the system. Games based technologies allow the development of deep understanding within complex information, processes or systems, as well as role plays to develop interpersonal skills and attitudinal changes in members.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Case Studies",
+            "capsule_permalink": "case-studies",
+            "content_type" : "Case Study",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-search",
+            "capsule_content" : "Case studies illustrate ideas in action, allowing the member to see and understand the technology, idea or methodology in action. Ideally, case studies should be used with open questioning to develop understanding along with the explanation in action.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Video (static)",
+            "capsule_permalink": "video-static",
+            "content_type" : "Static Video",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-video",
+            "capsule_content" : "Static video has a high degree of application within learning, from illustration of concepts, presentations, knowledge transfer as well as illustration. Properly designed video content is highly interactive, short in duration and is specifically designed and developed to illustrate a core message or purpose.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Video (dynamic)",
+            "capsule_permalink": "video-dynamic",
+            "content_type" : "Dynamic Video",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-photo-video",
+            "capsule_content" : "Dynamic or interactive video illustrates a learning journey by integrating interactive learning interventions, such as multiple choice questions, downloads, lists, pictures and audio to create interactive action based video.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Infographic",
+            "capsule_permalink": "infographic",
+            "content_type" : "Infographic",
+            "capsule_featured_image" : "",
+            "capsule_infographic_image" : "infographics.jpg",
+            "capsule_thumbnail" : "fas fa-chart-line",
+            "capsule_content" : "Infographics are graphic visual representations of information, data, or knowledge intended to present information quickly and clearly. Infographics improve cognition by utilizing graphics to enhance the human visual system's ability to see patterns and trends.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Problem solving and simulations",
+            "capsule_permalink": "Problem-solving-simulations",
+            "content_type" : "Problem Solving and Simulations",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-brain",
+            "capsule_content" : "Simulations and problem solving scenario's are used to illustrate, and formatively assess and test a members knowledge transfer and understanding. Through the use of simulations, a member can apply their understanding and develop their skills in a safe, illustrative space.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Checklists",
+            "capsule_permalink": "checklists",
+            "content_type" : "Checklists",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-tasks",
+            "capsule_content" : "A checklist is a type of job aid used to reduce failure by compensating for potential limits of human memory and attention. They are best used as job aids, where they provide just-in-time information and guidance.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Text and articles",
+            "capsule_permalink": "text-articles",
+            "content_type" : "Text and Articles",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-text-height",
+            "capsule_content" : "Text and articles are the core of learning material. Through the use of properly curated, and expertly written copy, learning material can be specifically delivered and designed for maximum impact and transfer. It can be used in multiple applications, scenarios and learning methodologies.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "eBooks and manuals",
+            "capsule_permalink": "ebooks-manuals",
+            "content_type" : "eBooks and manuals",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-book",
+            "capsule_ebook_cover" : "online-advertising-cover.jpg",
+            "capsule_ebook_link" : "online-advertising.pdf",
+            "capsule_content" : "eBooks and manuals are generally material that contain the corporate intelligence of an organization, how the business or function does what it does. They are best leveraged through providing the source of business intelligence within the learning pathway through the use of a download or share option, or integrating specific chapters or pages of a given manual or process.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Polls and Surveys",
+            "capsule_permalink": "polls-surveys",
+            "content_type" : "Polls and Surveys",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-poll-h",
+            "capsule_content" : "Polls and surveys have huge application within a learning environment. They can be used to increase interaction with material, increase synchronicity, gather feedback and information and multiple other uses.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Assessments",
+            "capsule_permalink": "assessments",
+            "content_type" : "Assessments",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-user-check",
+            "capsule_content" : "The foundation of proper assessment is to ensure tight packaging between the learning outcomes, the learning activity and the assessment of that activity. It is essential that assessments are not merely completed so that participants can pass the programme, without the true objective of the course occurring, which is to build new competencies and knowledge.",
+            "time_to_complete" : "2 Minutes"
+          }
+        ]
+      },
+      {
+        "topic_name" : "Topic 4:",
+        "topic_image" : "",
+        "topic_thumbnail" : "",
+        "topic_content" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Itaque eos debitis, neque officiis pariatur doloribus deleniti voluptatem praesentium ex rerum! Facilis eos, hic dignissimos doloremque accusamus magnam ut optio excepturi!",
+        "permalink" : "topic-4",
+        "capsule" : [
+          {
+            "capsule_Name" : "Presentations and slideshares",
+            "capsule_permalink": "presentations-slideshares",
+            "content_type" : "Presentations and Slideshares",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fab fa-slideshare",
+            "capsule_content" : "A presentation or slideshare is a group of content, presented in slide or powerpoint format, and is used to facilitate knowledge acquisition (mainly conceptual and factual knowledge), orientation, motivation, attitudinal change.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Charts and Graphs",
+            "capsule_permalink": "charts-Graph",
+            "content_type" : "Charts and Graphs",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-chart-pie",
+            "capsule_content" : "Charts, graphs and diagrams are used to easily illustrate complex data to an audience. They are generally used in both application methodology, but can also be used in exposive and collaborative methodologies. They are excellent at developing deep understanding of complex systems, building procedural skills and the effective illustration of data ",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Webinars and events",
+            "capsule_permalink": "webinars-events",
+            "content_type" : "Webinars and Events",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "far fa-calendar-alt",
+            "capsule_content" : "Webinars and events are used in a multitude of different learning and development scenario's. Webinars and events allow key information and messaging to be broadly broadcast to a large number of participants, and their proper design, and integration into learning materials can be massively effective.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Podcasts, audio and interviews",
+            "capsule_permalink": "podcasts-audio-interviews",
+            "content_type" : "audio",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-music",
+            "capsule_podcast" : "how-to-find-your-why-the-infinite-game-simon-sinek.wav",
+            "capsule_podcast_cover" : "how-to-find-your-why-the-infinite-game-simon-sinek.jpg",
+            "capsule_content" : "Podcasts, audio and interviews are used for different applications. Audio can be used to illustrate specific conditions, or sounds, while interviews and podcasts can be used in application methodologies, such as case studies, job aids, deep knowledge development and procedural skills.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Games",
+            "capsule_permalink": "games",
+            "content_type" : "Game",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-gamepad",
+            "capsule_content" : "The use of games and simulation based technologies can promote the application of knowledge learnt within the system. Games based technologies allow the development of deep understanding within complex information, processes or systems, as well as role plays to develop interpersonal skills and attitudinal changes in members.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Case Studies",
+            "capsule_permalink": "case-studies",
+            "content_type" : "Case Study",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-search",
+            "capsule_content" : "Case studies illustrate ideas in action, allowing the member to see and understand the technology, idea or methodology in action. Ideally, case studies should be used with open questioning to develop understanding along with the explanation in action.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Video (static)",
+            "capsule_permalink": "video-static",
+            "content_type" : "Static Video",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-video",
+            "capsule_content" : "Static video has a high degree of application within learning, from illustration of concepts, presentations, knowledge transfer as well as illustration. Properly designed video content is highly interactive, short in duration and is specifically designed and developed to illustrate a core message or purpose.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Video (dynamic)",
+            "capsule_permalink": "video-dynamic",
+            "content_type" : "Dynamic Video",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-photo-video",
+            "capsule_content" : "Dynamic or interactive video illustrates a learning journey by integrating interactive learning interventions, such as multiple choice questions, downloads, lists, pictures and audio to create interactive action based video.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Infographic",
+            "capsule_permalink": "infographic",
+            "content_type" : "Infographic",
+            "capsule_featured_image" : "",
+            "capsule_infographic_image" : "infographics.jpg",
+            "capsule_thumbnail" : "fas fa-chart-line",
+            "capsule_content" : "Infographics are graphic visual representations of information, data, or knowledge intended to present information quickly and clearly. Infographics improve cognition by utilizing graphics to enhance the human visual system's ability to see patterns and trends.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Problem solving and simulations",
+            "capsule_permalink": "Problem-solving-simulations",
+            "content_type" : "Problem Solving and Simulations",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-brain",
+            "capsule_content" : "Simulations and problem solving scenario's are used to illustrate, and formatively assess and test a members knowledge transfer and understanding. Through the use of simulations, a member can apply their understanding and develop their skills in a safe, illustrative space.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Checklists",
+            "capsule_permalink": "checklists",
+            "content_type" : "Checklists",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-tasks",
+            "capsule_content" : "A checklist is a type of job aid used to reduce failure by compensating for potential limits of human memory and attention. They are best used as job aids, where they provide just-in-time information and guidance.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Text and articles",
+            "capsule_permalink": "text-articles",
+            "content_type" : "Text and Articles",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-text-height",
+            "capsule_content" : "Text and articles are the core of learning material. Through the use of properly curated, and expertly written copy, learning material can be specifically delivered and designed for maximum impact and transfer. It can be used in multiple applications, scenarios and learning methodologies.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "eBooks and manuals",
+            "capsule_permalink": "ebooks-manuals",
+            "content_type" : "eBooks and manuals",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-book",
+            "capsule_ebook_cover" : "online-advertising-cover.jpg",
+            "capsule_ebook_link" : "online-advertising.pdf",
+            "capsule_content" : "eBooks and manuals are generally material that contain the corporate intelligence of an organization, how the business or function does what it does. They are best leveraged through providing the source of business intelligence within the learning pathway through the use of a download or share option, or integrating specific chapters or pages of a given manual or process.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Polls and Surveys",
+            "capsule_permalink": "polls-surveys",
+            "content_type" : "Polls and Surveys",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-poll-h",
+            "capsule_content" : "Polls and surveys have huge application within a learning environment. They can be used to increase interaction with material, increase synchronicity, gather feedback and information and multiple other uses.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Assessments",
+            "capsule_permalink": "assessments",
+            "content_type" : "Assessments",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-user-check",
+            "capsule_content" : "The foundation of proper assessment is to ensure tight packaging between the learning outcomes, the learning activity and the assessment of that activity. It is essential that assessments are not merely completed so that participants can pass the programme, without the true objective of the course occurring, which is to build new competencies and knowledge.",
+            "time_to_complete" : "2 Minutes"
+          }
+        ]
+      }
+    ],
+    "completed": false
+  },
+
+  {
+    "courseName": "Customer service training",
+    "permalink": "customer-service-training",
+    "course_heroImage": "customer-service-training-course-heroImage.jpg",
+    "course_thumbnail" : "customer-service.jpg",
+    "content":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aperiam asperiores, itaque voluptatem, omnis cum eum officiis ipsum nam, ratione nesciunt ducimus eaque rem, perferendis. Similique possimus error voluptas, aspernatur corporis!",
+    "topic" : [
+      {
+        "topic_name" : "Topic 1:",
+        "topic_image" : "",
+        "topic_thumbnail" : "",
+        "topic_content" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vero aspernatur veritatis ullam cum, nisi, nemo quisquam reprehenderit sint at ratione blanditiis iusto aliquam, quam molestias. Excepturi sequi voluptatum dolorum eveniet.",
+        "permalink" : "topic-1",
+        "capsule" : [
+          {
+            "capsule_Name" : "Presentations and slideshares",
+            "capsule_permalink": "presentations-slideshares",
+            "content_type" : "Presentations and Slideshares",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fab fa-slideshare",
+            "capsule_content" : "A presentation or slideshare is a group of content, presented in slide or powerpoint format, and is used to facilitate knowledge acquisition (mainly conceptual and factual knowledge), orientation, motivation, attitudinal change.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Charts and Graphs",
+            "capsule_permalink": "charts-Graph",
+            "content_type" : "Charts and Graphs",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-chart-pie",
+            "capsule_content" : "Charts, graphs and diagrams are used to easily illustrate complex data to an audience. They are generally used in both application methodology, but can also be used in exposive and collaborative methodologies. They are excellent at developing deep understanding of complex systems, building procedural skills and the effective illustration of data ",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Webinars and events",
+            "capsule_permalink": "webinars-events",
+            "content_type" : "Webinars and Events",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "far fa-calendar-alt",
+            "capsule_content" : "Webinars and events are used in a multitude of different learning and development scenario's. Webinars and events allow key information and messaging to be broadly broadcast to a large number of participants, and their proper design, and integration into learning materials can be massively effective.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Podcasts, audio and interviews",
+            "capsule_permalink": "podcasts-audio-interviews",
+            "content_type" : "audio",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-music",
+            "capsule_podcast" : "how-to-find-your-why-the-infinite-game-simon-sinek.wav",
+            "capsule_podcast_cover" : "how-to-find-your-why-the-infinite-game-simon-sinek.jpg",
+            "capsule_content" : "Podcasts, audio and interviews are used for different applications. Audio can be used to illustrate specific conditions, or sounds, while interviews and podcasts can be used in application methodologies, such as case studies, job aids, deep knowledge development and procedural skills.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Games",
+            "capsule_permalink": "games",
+            "content_type" : "Game",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-gamepad",
+            "capsule_content" : "The use of games and simulation based technologies can promote the application of knowledge learnt within the system. Games based technologies allow the development of deep understanding within complex information, processes or systems, as well as role plays to develop interpersonal skills and attitudinal changes in members.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Case Studies",
+            "capsule_permalink": "case-studies",
+            "content_type" : "Case Study",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-search",
+            "capsule_content" : "Case studies illustrate ideas in action, allowing the member to see and understand the technology, idea or methodology in action. Ideally, case studies should be used with open questioning to develop understanding along with the explanation in action.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Video (static)",
+            "capsule_permalink": "video-static",
+            "content_type" : "Static Video",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-video",
+            "capsule_content" : "Static video has a high degree of application within learning, from illustration of concepts, presentations, knowledge transfer as well as illustration. Properly designed video content is highly interactive, short in duration and is specifically designed and developed to illustrate a core message or purpose.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Video (dynamic)",
+            "capsule_permalink": "video-dynamic",
+            "content_type" : "Dynamic Video",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-photo-video",
+            "capsule_content" : "Dynamic or interactive video illustrates a learning journey by integrating interactive learning interventions, such as multiple choice questions, downloads, lists, pictures and audio to create interactive action based video.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Infographic",
+            "capsule_permalink": "infographic",
+            "content_type" : "Infographic",
+            "capsule_featured_image" : "",
+            "capsule_infographic_image" : "infographics.jpg",
+            "capsule_thumbnail" : "fas fa-chart-line",
+            "capsule_content" : "Infographics are graphic visual representations of information, data, or knowledge intended to present information quickly and clearly. Infographics improve cognition by utilizing graphics to enhance the human visual system's ability to see patterns and trends.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Problem solving and simulations",
+            "capsule_permalink": "Problem-solving-simulations",
+            "content_type" : "Problem Solving and Simulations",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-brain",
+            "capsule_content" : "Simulations and problem solving scenario's are used to illustrate, and formatively assess and test a members knowledge transfer and understanding. Through the use of simulations, a member can apply their understanding and develop their skills in a safe, illustrative space.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Checklists",
+            "capsule_permalink": "checklists",
+            "content_type" : "Checklists",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-tasks",
+            "capsule_content" : "A checklist is a type of job aid used to reduce failure by compensating for potential limits of human memory and attention. They are best used as job aids, where they provide just-in-time information and guidance.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Text and articles",
+            "capsule_permalink": "text-articles",
+            "content_type" : "Text and Articles",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-text-height",
+            "capsule_content" : "Text and articles are the core of learning material. Through the use of properly curated, and expertly written copy, learning material can be specifically delivered and designed for maximum impact and transfer. It can be used in multiple applications, scenarios and learning methodologies.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "eBooks and manuals",
+            "capsule_permalink": "ebooks-manuals",
+            "content_type" : "eBooks and manuals",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-book",
+            "capsule_ebook_cover" : "online-advertising-cover.jpg",
+            "capsule_ebook_link" : "online-advertising.pdf",
+            "capsule_content" : "eBooks and manuals are generally material that contain the corporate intelligence of an organization, how the business or function does what it does. They are best leveraged through providing the source of business intelligence within the learning pathway through the use of a download or share option, or integrating specific chapters or pages of a given manual or process.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Polls and Surveys",
+            "capsule_permalink": "polls-surveys",
+            "content_type" : "Polls and Surveys",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-poll-h",
+            "capsule_content" : "Polls and surveys have huge application within a learning environment. They can be used to increase interaction with material, increase synchronicity, gather feedback and information and multiple other uses.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Assessments",
+            "capsule_permalink": "assessments",
+            "content_type" : "Assessments",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-user-check",
+            "capsule_content" : "The foundation of proper assessment is to ensure tight packaging between the learning outcomes, the learning activity and the assessment of that activity. It is essential that assessments are not merely completed so that participants can pass the programme, without the true objective of the course occurring, which is to build new competencies and knowledge.",
+            "time_to_complete" : "2 Minutes"
+          }
+        ]
+      },
+      {
+        "topic_name" : "Topic 2:",
+        "topic_image" : "",
+        "topic_thumbnail" : "",
+        "topic_content" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laudantium deserunt voluptatibus blanditiis in veritatis officiis, illum aut voluptas officia. In assumenda, alias maiores debitis facilis delectus? Explicabo repellendus quasi, maiores.",
+        "permalink" : "topic-2",
+        "capsule" : [
+          {
+            "capsule_Name" : "Presentations and slideshares",
+            "capsule_permalink": "presentations-slideshares",
+            "content_type" : "Presentations and Slideshares",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fab fa-slideshare",
+            "capsule_content" : "A presentation or slideshare is a group of content, presented in slide or powerpoint format, and is used to facilitate knowledge acquisition (mainly conceptual and factual knowledge), orientation, motivation, attitudinal change.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Charts and Graphs",
+            "capsule_permalink": "charts-Graph",
+            "content_type" : "Charts and Graphs",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-chart-pie",
+            "capsule_content" : "Charts, graphs and diagrams are used to easily illustrate complex data to an audience. They are generally used in both application methodology, but can also be used in exposive and collaborative methodologies. They are excellent at developing deep understanding of complex systems, building procedural skills and the effective illustration of data ",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Webinars and events",
+            "capsule_permalink": "webinars-events",
+            "content_type" : "Webinars and Events",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "far fa-calendar-alt",
+            "capsule_content" : "Webinars and events are used in a multitude of different learning and development scenario's. Webinars and events allow key information and messaging to be broadly broadcast to a large number of participants, and their proper design, and integration into learning materials can be massively effective.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Podcasts, audio and interviews",
+            "capsule_permalink": "podcasts-audio-interviews",
+            "content_type" : "audio",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-music",
+            "capsule_podcast" : "how-to-find-your-why-the-infinite-game-simon-sinek.wav",
+            "capsule_podcast_cover" : "how-to-find-your-why-the-infinite-game-simon-sinek.jpg",
+            "capsule_content" : "Podcasts, audio and interviews are used for different applications. Audio can be used to illustrate specific conditions, or sounds, while interviews and podcasts can be used in application methodologies, such as case studies, job aids, deep knowledge development and procedural skills.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Games",
+            "capsule_permalink": "games",
+            "content_type" : "Game",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-gamepad",
+            "capsule_content" : "The use of games and simulation based technologies can promote the application of knowledge learnt within the system. Games based technologies allow the development of deep understanding within complex information, processes or systems, as well as role plays to develop interpersonal skills and attitudinal changes in members.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Case Studies",
+            "capsule_permalink": "case-studies",
+            "content_type" : "Case Study",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-search",
+            "capsule_content" : "Case studies illustrate ideas in action, allowing the member to see and understand the technology, idea or methodology in action. Ideally, case studies should be used with open questioning to develop understanding along with the explanation in action.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Video (static)",
+            "capsule_permalink": "video-static",
+            "content_type" : "Static Video",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-video",
+            "capsule_content" : "Static video has a high degree of application within learning, from illustration of concepts, presentations, knowledge transfer as well as illustration. Properly designed video content is highly interactive, short in duration and is specifically designed and developed to illustrate a core message or purpose.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Video (dynamic)",
+            "capsule_permalink": "video-dynamic",
+            "content_type" : "Dynamic Video",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-photo-video",
+            "capsule_content" : "Dynamic or interactive video illustrates a learning journey by integrating interactive learning interventions, such as multiple choice questions, downloads, lists, pictures and audio to create interactive action based video.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Infographic",
+            "capsule_permalink": "infographic",
+            "content_type" : "Infographic",
+            "capsule_featured_image" : "",
+            "capsule_infographic_image" : "infographics.jpg",
+            "capsule_thumbnail" : "fas fa-chart-line",
+            "capsule_content" : "Infographics are graphic visual representations of information, data, or knowledge intended to present information quickly and clearly. Infographics improve cognition by utilizing graphics to enhance the human visual system's ability to see patterns and trends.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Problem solving and simulations",
+            "capsule_permalink": "Problem-solving-simulations",
+            "content_type" : "Problem Solving and Simulations",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-brain",
+            "capsule_content" : "Simulations and problem solving scenario's are used to illustrate, and formatively assess and test a members knowledge transfer and understanding. Through the use of simulations, a member can apply their understanding and develop their skills in a safe, illustrative space.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Checklists",
+            "capsule_permalink": "checklists",
+            "content_type" : "Checklists",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-tasks",
+            "capsule_content" : "A checklist is a type of job aid used to reduce failure by compensating for potential limits of human memory and attention. They are best used as job aids, where they provide just-in-time information and guidance.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Text and articles",
+            "capsule_permalink": "text-articles",
+            "content_type" : "Text and Articles",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-text-height",
+            "capsule_content" : "Text and articles are the core of learning material. Through the use of properly curated, and expertly written copy, learning material can be specifically delivered and designed for maximum impact and transfer. It can be used in multiple applications, scenarios and learning methodologies.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "eBooks and manuals",
+            "capsule_permalink": "ebooks-manuals",
+            "content_type" : "eBooks and manuals",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-book",
+            "capsule_ebook_cover" : "online-advertising-cover.jpg",
+            "capsule_ebook_link" : "online-advertising.pdf",
+            "capsule_content" : "eBooks and manuals are generally material that contain the corporate intelligence of an organization, how the business or function does what it does. They are best leveraged through providing the source of business intelligence within the learning pathway through the use of a download or share option, or integrating specific chapters or pages of a given manual or process.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Polls and Surveys",
+            "capsule_permalink": "polls-surveys",
+            "content_type" : "Polls and Surveys",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-poll-h",
+            "capsule_content" : "Polls and surveys have huge application within a learning environment. They can be used to increase interaction with material, increase synchronicity, gather feedback and information and multiple other uses.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Assessments",
+            "capsule_permalink": "assessments",
+            "content_type" : "Assessments",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-user-check",
+            "capsule_content" : "The foundation of proper assessment is to ensure tight packaging between the learning outcomes, the learning activity and the assessment of that activity. It is essential that assessments are not merely completed so that participants can pass the programme, without the true objective of the course occurring, which is to build new competencies and knowledge.",
+            "time_to_complete" : "2 Minutes"
+          }
+        ]
+      },
+      {
+        "topic_name" : "Topic 3:",
+        "topic_image" : "",
+        "topic_thumbnail" : "",
+        "topic_content" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maiores quae, recusandae at, distinctio odit qui voluptas eveniet officia in laborum illum amet debitis neque delectus magni dolore enim possimus tenetur.",
+        "permalink" : "topic-3",
+        "capsule" : [
+          {
+            "capsule_Name" : "Presentations and slideshares",
+            "capsule_permalink": "presentations-slideshares",
+            "content_type" : "Presentations and Slideshares",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fab fa-slideshare",
+            "capsule_content" : "A presentation or slideshare is a group of content, presented in slide or powerpoint format, and is used to facilitate knowledge acquisition (mainly conceptual and factual knowledge), orientation, motivation, attitudinal change.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Charts and Graphs",
+            "capsule_permalink": "charts-Graph",
+            "content_type" : "Charts and Graphs",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-chart-pie",
+            "capsule_content" : "Charts, graphs and diagrams are used to easily illustrate complex data to an audience. They are generally used in both application methodology, but can also be used in exposive and collaborative methodologies. They are excellent at developing deep understanding of complex systems, building procedural skills and the effective illustration of data ",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Webinars and events",
+            "capsule_permalink": "webinars-events",
+            "content_type" : "Webinars and Events",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "far fa-calendar-alt",
+            "capsule_content" : "Webinars and events are used in a multitude of different learning and development scenario's. Webinars and events allow key information and messaging to be broadly broadcast to a large number of participants, and their proper design, and integration into learning materials can be massively effective.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Podcasts, audio and interviews",
+            "capsule_permalink": "podcasts-audio-interviews",
+            "content_type" : "audio",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-music",
+            "capsule_podcast" : "how-to-find-your-why-the-infinite-game-simon-sinek.wav",
+            "capsule_podcast_cover" : "how-to-find-your-why-the-infinite-game-simon-sinek.jpg",
+            "capsule_content" : "Podcasts, audio and interviews are used for different applications. Audio can be used to illustrate specific conditions, or sounds, while interviews and podcasts can be used in application methodologies, such as case studies, job aids, deep knowledge development and procedural skills.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Games",
+            "capsule_permalink": "games",
+            "content_type" : "Game",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-gamepad",
+            "capsule_content" : "The use of games and simulation based technologies can promote the application of knowledge learnt within the system. Games based technologies allow the development of deep understanding within complex information, processes or systems, as well as role plays to develop interpersonal skills and attitudinal changes in members.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Case Studies",
+            "capsule_permalink": "case-studies",
+            "content_type" : "Case Study",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-search",
+            "capsule_content" : "Case studies illustrate ideas in action, allowing the member to see and understand the technology, idea or methodology in action. Ideally, case studies should be used with open questioning to develop understanding along with the explanation in action.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Video (static)",
+            "capsule_permalink": "video-static",
+            "content_type" : "Static Video",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-video",
+            "capsule_content" : "Static video has a high degree of application within learning, from illustration of concepts, presentations, knowledge transfer as well as illustration. Properly designed video content is highly interactive, short in duration and is specifically designed and developed to illustrate a core message or purpose.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Video (dynamic)",
+            "capsule_permalink": "video-dynamic",
+            "content_type" : "Dynamic Video",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-photo-video",
+            "capsule_content" : "Dynamic or interactive video illustrates a learning journey by integrating interactive learning interventions, such as multiple choice questions, downloads, lists, pictures and audio to create interactive action based video.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Infographic",
+            "capsule_permalink": "infographic",
+            "content_type" : "Infographic",
+            "capsule_featured_image" : "",
+            "capsule_infographic_image" : "infographics.jpg",
+            "capsule_thumbnail" : "fas fa-chart-line",
+            "capsule_content" : "Infographics are graphic visual representations of information, data, or knowledge intended to present information quickly and clearly. Infographics improve cognition by utilizing graphics to enhance the human visual system's ability to see patterns and trends.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Problem solving and simulations",
+            "capsule_permalink": "Problem-solving-simulations",
+            "content_type" : "Problem Solving and Simulations",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-brain",
+            "capsule_content" : "Simulations and problem solving scenario's are used to illustrate, and formatively assess and test a members knowledge transfer and understanding. Through the use of simulations, a member can apply their understanding and develop their skills in a safe, illustrative space.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Checklists",
+            "capsule_permalink": "checklists",
+            "content_type" : "Checklists",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-tasks",
+            "capsule_content" : "A checklist is a type of job aid used to reduce failure by compensating for potential limits of human memory and attention. They are best used as job aids, where they provide just-in-time information and guidance.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Text and articles",
+            "capsule_permalink": "text-articles",
+            "content_type" : "Text and Articles",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-text-height",
+            "capsule_content" : "Text and articles are the core of learning material. Through the use of properly curated, and expertly written copy, learning material can be specifically delivered and designed for maximum impact and transfer. It can be used in multiple applications, scenarios and learning methodologies.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "eBooks and manuals",
+            "capsule_permalink": "ebooks-manuals",
+            "content_type" : "eBooks and manuals",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-book",
+            "capsule_ebook_cover" : "online-advertising-cover.jpg",
+            "capsule_ebook_link" : "online-advertising.pdf",
+            "capsule_content" : "eBooks and manuals are generally material that contain the corporate intelligence of an organization, how the business or function does what it does. They are best leveraged through providing the source of business intelligence within the learning pathway through the use of a download or share option, or integrating specific chapters or pages of a given manual or process.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Polls and Surveys",
+            "capsule_permalink": "polls-surveys",
+            "content_type" : "Polls and Surveys",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-poll-h",
+            "capsule_content" : "Polls and surveys have huge application within a learning environment. They can be used to increase interaction with material, increase synchronicity, gather feedback and information and multiple other uses.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Assessments",
+            "capsule_permalink": "assessments",
+            "content_type" : "Assessments",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-user-check",
+            "capsule_content" : "The foundation of proper assessment is to ensure tight packaging between the learning outcomes, the learning activity and the assessment of that activity. It is essential that assessments are not merely completed so that participants can pass the programme, without the true objective of the course occurring, which is to build new competencies and knowledge.",
+            "time_to_complete" : "2 Minutes"
+          }
+        ]
+      },
+      {
+        "topic_name" : "Topic 4:",
+        "topic_image" : "",
+        "topic_thumbnail" : "",
+        "topic_content" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deserunt vitae aliquid suscipit repellendus eum delectus reiciendis corrupti ex fugiat! Voluptatibus laboriosam veniam aspernatur ullam doloremque libero voluptate quis repellendus amet?",
+        "permalink" : "topic-4",
+        "capsule" : [
+          {
+            "capsule_Name" : "Presentations and slideshares",
+            "capsule_permalink": "presentations-slideshares",
+            "content_type" : "Presentations and Slideshares",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fab fa-slideshare",
+            "capsule_content" : "A presentation or slideshare is a group of content, presented in slide or powerpoint format, and is used to facilitate knowledge acquisition (mainly conceptual and factual knowledge), orientation, motivation, attitudinal change.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Charts and Graphs",
+            "capsule_permalink": "charts-Graph",
+            "content_type" : "Charts and Graphs",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-chart-pie",
+            "capsule_content" : "Charts, graphs and diagrams are used to easily illustrate complex data to an audience. They are generally used in both application methodology, but can also be used in exposive and collaborative methodologies. They are excellent at developing deep understanding of complex systems, building procedural skills and the effective illustration of data ",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Webinars and events",
+            "capsule_permalink": "webinars-events",
+            "content_type" : "Webinars and Events",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "far fa-calendar-alt",
+            "capsule_content" : "Webinars and events are used in a multitude of different learning and development scenario's. Webinars and events allow key information and messaging to be broadly broadcast to a large number of participants, and their proper design, and integration into learning materials can be massively effective.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Podcasts, audio and interviews",
+            "capsule_permalink": "podcasts-audio-interviews",
+            "content_type" : "audio",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-music",
+            "capsule_podcast" : "how-to-find-your-why-the-infinite-game-simon-sinek.wav",
+            "capsule_podcast_cover" : "how-to-find-your-why-the-infinite-game-simon-sinek.jpg",
+            "capsule_content" : "Podcasts, audio and interviews are used for different applications. Audio can be used to illustrate specific conditions, or sounds, while interviews and podcasts can be used in application methodologies, such as case studies, job aids, deep knowledge development and procedural skills.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Games",
+            "capsule_permalink": "games",
+            "content_type" : "Game",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-gamepad",
+            "capsule_content" : "The use of games and simulation based technologies can promote the application of knowledge learnt within the system. Games based technologies allow the development of deep understanding within complex information, processes or systems, as well as role plays to develop interpersonal skills and attitudinal changes in members.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Case Studies",
+            "capsule_permalink": "case-studies",
+            "content_type" : "Case Study",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-search",
+            "capsule_content" : "Case studies illustrate ideas in action, allowing the member to see and understand the technology, idea or methodology in action. Ideally, case studies should be used with open questioning to develop understanding along with the explanation in action.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Video (static)",
+            "capsule_permalink": "video-static",
+            "content_type" : "Static Video",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-video",
+            "capsule_content" : "Static video has a high degree of application within learning, from illustration of concepts, presentations, knowledge transfer as well as illustration. Properly designed video content is highly interactive, short in duration and is specifically designed and developed to illustrate a core message or purpose.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Video (dynamic)",
+            "capsule_permalink": "video-dynamic",
+            "content_type" : "Dynamic Video",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-photo-video",
+            "capsule_content" : "Dynamic or interactive video illustrates a learning journey by integrating interactive learning interventions, such as multiple choice questions, downloads, lists, pictures and audio to create interactive action based video.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Infographic",
+            "capsule_permalink": "infographic",
+            "content_type" : "Infographic",
+            "capsule_featured_image" : "",
+            "capsule_infographic_image" : "infographics.jpg",
+            "capsule_thumbnail" : "fas fa-chart-line",
+            "capsule_content" : "Infographics are graphic visual representations of information, data, or knowledge intended to present information quickly and clearly. Infographics improve cognition by utilizing graphics to enhance the human visual system's ability to see patterns and trends.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Problem solving and simulations",
+            "capsule_permalink": "Problem-solving-simulations",
+            "content_type" : "Problem Solving and Simulations",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-brain",
+            "capsule_content" : "Simulations and problem solving scenario's are used to illustrate, and formatively assess and test a members knowledge transfer and understanding. Through the use of simulations, a member can apply their understanding and develop their skills in a safe, illustrative space.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Checklists",
+            "capsule_permalink": "checklists",
+            "content_type" : "Checklists",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-tasks",
+            "capsule_content" : "A checklist is a type of job aid used to reduce failure by compensating for potential limits of human memory and attention. They are best used as job aids, where they provide just-in-time information and guidance.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Text and articles",
+            "capsule_permalink": "text-articles",
+            "content_type" : "Text and Articles",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-text-height",
+            "capsule_content" : "Text and articles are the core of learning material. Through the use of properly curated, and expertly written copy, learning material can be specifically delivered and designed for maximum impact and transfer. It can be used in multiple applications, scenarios and learning methodologies.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "eBooks and manuals",
+            "capsule_permalink": "ebooks-manuals",
+            "content_type" : "eBooks and manuals",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-book",
+            "capsule_ebook_cover" : "online-advertising-cover.jpg",
+            "capsule_ebook_link" : "online-advertising.pdf",
+            "capsule_content" : "eBooks and manuals are generally material that contain the corporate intelligence of an organization, how the business or function does what it does. They are best leveraged through providing the source of business intelligence within the learning pathway through the use of a download or share option, or integrating specific chapters or pages of a given manual or process.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Polls and Surveys",
+            "capsule_permalink": "polls-surveys",
+            "content_type" : "Polls and Surveys",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-poll-h",
+            "capsule_content" : "Polls and surveys have huge application within a learning environment. They can be used to increase interaction with material, increase synchronicity, gather feedback and information and multiple other uses.",
+            "time_to_complete" : "2 Minutes"
+          },
+
+          {
+            "capsule_Name" : "Assessments",
+            "capsule_permalink": "assessments",
+            "content_type" : "Assessments",
+            "capsule_featured_image" : "",
+            "capsule_thumbnail" : "fas fa-user-check",
+            "capsule_content" : "The foundation of proper assessment is to ensure tight packaging between the learning outcomes, the learning activity and the assessment of that activity. It is essential that assessments are not merely completed so that participants can pass the programme, without the true objective of the course occurring, which is to build new competencies and knowledge.",
+            "time_to_complete" : "2 Minutes"
+          }
+        ]
+      }
+    ],
+    "completed": false
+  }
+]
