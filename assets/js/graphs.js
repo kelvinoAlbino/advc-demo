@@ -1,8 +1,8 @@
 //active-users
 
 var currentURL = window.location.href
-var graphURL = "http://localhost:5000/courses/understanding-advc/learning-technologies/charts-Graph";
-var usersURL = "http://localhost:5000/dashboard/client";
+var graphURL = "http://18.130.116.234:5000/understanding-advc/learning-technologies/charts-Graph";
+var usersURL = "http://18.130.116.234:5000/dashboard/client";
 
 
 if ( currentURL == graphURL){
