@@ -1,8 +1,8 @@
-var myCourses = require('.././courses.json');
-var myAchievements = require('.././achievements.json');
-var myNews = require('.././news.json');
-var myEvents = require('.././events.json');
-var myBages = require('.././badges.json');
+var myCourses = require('.././json/courses.json');
+var myAchievements = require('.././json/achievements.json');
+var myNews = require('.././json/news.json');
+var myEvents = require('.././json/events.json');
+var myBages = require('.././json/badges.json');
 
 module.exports.dashboard = ( req, res ) => {
 

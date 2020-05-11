@@ -1,4 +1,4 @@
-var myAchievements = require('.././badges.json');
+var myAchievements = require('.././json/badges.json');
 
 var achievements = myAchievements;
 

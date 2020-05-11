@@ -1,4 +1,4 @@
-var myCourses = require('.././courses.json');
+var myCourses = require('.././json/courses.json');
 
 var courses = myCourses;
 

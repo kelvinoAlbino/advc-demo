@@ -1,4 +1,4 @@
-var myNews = require('.././news.json');
+var myNews = require('.././json/news.json');
 
 var news = myNews;
 

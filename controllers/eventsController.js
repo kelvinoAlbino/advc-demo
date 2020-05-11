@@ -1,4 +1,4 @@
-var myEvents = require('.././events.json');
+var myEvents = require('.././json/events.json');
 
 var events = myEvents;
 

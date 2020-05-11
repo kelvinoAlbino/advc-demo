@@ -1,6 +1,6 @@
-var myEvents = require('.././events.json');
+var myEvents = require('.././json/events.json');
 
-exports.register = ( req, res ) =>{
+exports.register = ( req, res ) => {
 
 	var pageSlug = req.params.pemalink;
 	var eventName = pageSlug.replace(/-/g, " ");
@@ -10,5 +10,5 @@ exports.register = ( req, res ) =>{
 	res.render('./pages/register/index', {
 		eventName : eventName
 	});
-	
+
 }
