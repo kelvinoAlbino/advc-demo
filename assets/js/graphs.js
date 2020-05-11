@@ -3,9 +3,11 @@
 var currentURL = window.location.href
 var graphURL = "http://18.130.116.234:5000/courses/understanding-advc/learning-technologies/charts-Graph";
 var usersURL = "http://18.130.116.234:5000/dashboard/client";
+var devGraphURL = "localhost:5000/courses/understanding-advc/learning-technologies/charts-Graph";
+var devUsersURL = "localhost:5000/dashboard/client";
 
 
-if ( currentURL == graphURL){
+if ( currentURL == graphURL || devGraphURL ){
 
   var doughnutEg = document.getElementById("graphEg");
   var pieEg = document.getElementById("pieEg");
@@ -202,7 +204,7 @@ if ( currentURL == graphURL){
   });
 }
 
-if ( currentURL == usersURL){
+if ( currentURL == usersURL || devUsersURL){
 
   var activeUsers = document.getElementById("active-users");
 
