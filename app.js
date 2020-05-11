@@ -1,8 +1,11 @@
 var express = require('express');
+//var mongoose = require('mongoose');
 var ejs = require('ejs');
 var ejsLocals = require('ejs-locals');
 var path = require('path');
 var routes = require('./routes');
+
+//mongoose.connect( 'mongodb://localhost/advc-demo', { useNewUrlParser: true, useUnifiedTopology: true } );
 
 var app = express();
 
