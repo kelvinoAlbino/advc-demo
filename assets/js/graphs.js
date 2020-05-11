@@ -2,7 +2,7 @@
 
 var currentURL = window.location.href;
 var productionURL = "http://18.130.116.234:5000"
-var devURL = "localhost:5000"
+var devURL = "http://localhost:5000"
 var graphURL = "http://18.130.116.234:5000/courses/understanding-advc/learning-technologies/charts-Graph";
 var usersURL = "http://18.130.116.234:5000/dashboard/client";
 var devGraphURL = "http://localhost:5000/courses/understanding-advc/learning-technologies/charts-Graph";
