@@ -1,13 +1,15 @@
 //active-users
 
-var currentURL = window.location.href
+var currentURL = window.location.href;
+var productionURL = "http://18.130.116.234:5000"
+var devURL = "localhost:5000"
 var graphURL = "http://18.130.116.234:5000/courses/understanding-advc/learning-technologies/charts-Graph";
 var usersURL = "http://18.130.116.234:5000/dashboard/client";
-var devGraphURL = "localhost:5000/courses/understanding-advc/learning-technologies/charts-Graph";
-var devUsersURL = "localhost:5000/dashboard/client";
+var devGraphURL = "http://localhost:5000/courses/understanding-advc/learning-technologies/charts-Graph";
+var devUsersURL = "http://localhost:5000/dashboard/client";
 
 
-if ( currentURL == graphURL || devGraphURL ){
+if ( currentURL == graphURL || currentURL == devGraphURL ){
 
   var doughnutEg = document.getElementById("graphEg");
   var pieEg = document.getElementById("pieEg");
@@ -204,7 +206,7 @@ if ( currentURL == graphURL || devGraphURL ){
   });
 }
 
-if ( currentURL == usersURL || devUsersURL){
+if ( currentURL == usersURL || currentURL == devUsersURL || currentURL == devURL || currentURL == productionURL ){
 
   var activeUsers = document.getElementById("active-users");
 
@@ -247,5 +249,5 @@ var ctx = new Chart( analytics, {
         ]
       }]
     }
-  });
+});
 
